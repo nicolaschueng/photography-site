@@ -56,24 +56,73 @@ function renderList() {
   for (const c of state.collections) {
     const li = document.createElement('li');
     li.className = `group rounded-md border ${c.slug === state.currentSlug ? 'bg-stone-900 text-white border-stone-900' : 'bg-white border-stone-200 hover:border-stone-400'}`;
+    li.draggable = true;
+    li.dataset.slug = c.slug;
     li.innerHTML = `
-      <button class="w-full text-left px-3 py-2.5 flex items-center gap-3">
-        <div class="w-10 h-10 rounded bg-stone-100 overflow-hidden flex-shrink-0">
-          ${c.cover ? `<img src="${c.cover}" class="w-full h-full object-cover" />` : ''}
-        </div>
-        <div class="flex-1 min-w-0">
-          <div class="text-sm font-medium truncate">${escapeHtml(c.title) || '<未命名>'}</div>
-          <div class="text-[11px] opacity-60 truncate">${c.category} · ${c.year} · ${c.photos.length}张</div>
-        </div>
-      </button>
+      <div class="w-full px-3 py-2.5 flex items-center gap-2">
+        <span class="drag-handle cursor-grab opacity-40 group-hover:opacity-80 select-none text-base leading-none" title="拖拽排序">⋮⋮</span>
+        <button data-pick class="flex-1 min-w-0 text-left flex items-center gap-3">
+          <div class="w-10 h-10 rounded bg-stone-100 overflow-hidden flex-shrink-0">
+            ${c.cover ? `<img src="${c.cover}" class="w-full h-full object-cover" />` : ''}
+          </div>
+          <div class="flex-1 min-w-0">
+            <div class="text-sm font-medium truncate">${escapeHtml(c.title) || '<未命名>'}</div>
+            <div class="text-[11px] opacity-60 truncate">${c.category} · ${c.year} · ${c.photos.length}张</div>
+          </div>
+        </button>
+      </div>
     `;
-    li.querySelector('button').onclick = () => {
+    li.querySelector('button[data-pick]').onclick = () => {
       state.currentSlug = c.slug;
       renderList();
       renderEditor();
     };
     ul.appendChild(li);
   }
+
+  // 拖拽排序(集合)
+  let dragSlug = null;
+  ul.addEventListener('dragstart', (e) => {
+    const li = e.target.closest('li[data-slug]');
+    if (!li) return;
+    dragSlug = li.dataset.slug;
+    li.classList.add('dragging');
+    e.dataTransfer.effectAllowed = 'move';
+  });
+  ul.addEventListener('dragend', () => {
+    $$('li.dragging', ul).forEach((el) => el.classList.remove('dragging'));
+    $$('li.drop-target', ul).forEach((el) => el.classList.remove('drop-target'));
+    dragSlug = null;
+  });
+  ul.addEventListener('dragover', (e) => {
+    e.preventDefault();
+    const li = e.target.closest('li[data-slug]');
+    if (!li || li.dataset.slug === dragSlug) return;
+    $$('li.drop-target', ul).forEach((el) => el.classList.remove('drop-target'));
+    li.classList.add('drop-target');
+  });
+  ul.addEventListener('drop', async (e) => {
+    e.preventDefault();
+    const li = e.target.closest('li[data-slug]');
+    if (!li || !dragSlug || li.dataset.slug === dragSlug) return;
+    const fromIdx = state.collections.findIndex((x) => x.slug === dragSlug);
+    const toIdx = state.collections.findIndex((x) => x.slug === li.dataset.slug);
+    if (fromIdx < 0 || toIdx < 0) return;
+    const [moved] = state.collections.splice(fromIdx, 1);
+    state.collections.splice(toIdx, 0, moved);
+    renderList();
+    try {
+      await api('/collections/reorder', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ slugs: state.collections.map((x) => x.slug) }),
+      });
+      refreshStatus();
+      toast('已调整顺序');
+    } catch (err) {
+      toast('排序失败:' + err.message, true);
+    }
+  });
 }
 
 // ===== 右栏编辑器 =====
