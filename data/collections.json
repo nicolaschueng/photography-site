@@ -10,12 +10,6 @@
       "year": "2025",
       "photos": [
         {
-          "src": "/photos/procida/01.webp",
-          "caption": "小岛清晨,巷口的人还没有醒。",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
           "src": "/photos/procida/02.webp",
           "caption": "光从教堂背面斜下来,把石墙切成两半。",
           "location": "Procida, Italy",
@@ -74,12 +68,6 @@
       "category": "人文",
       "year": "2025",
       "photos": [
-        {
-          "src": "/photos/tokyo/01.webp",
-          "caption": "电车进站,玻璃上开始结雾。",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
         {
           "src": "/photos/tokyo/02.webp",
           "caption": "西装、口罩、白色衬衫,一种当代制服。",
@@ -176,12 +164,6 @@
       "year": "2024",
       "photos": [
         {
-          "src": "/photos/london/01.webp",
-          "caption": "扶梯往下,像往一段记忆里走。",
-          "location": "London, UK",
-          "year": "2024"
-        },
-        {
           "src": "/photos/london/02.webp",
           "caption": "车窗映出对面的人,也映出自己。",
           "location": "London, UK",
@@ -246,12 +228,6 @@
       "category": "人文",
       "year": "2024",
       "photos": [
-        {
-          "src": "/photos/penang/01.webp",
-          "caption": "老街的午后,阳光厚得像奶油。",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
         {
           "src": "/photos/penang/02.webp",
           "caption": "阿婆坐在自家店门口,等人也等天气。",
@@ -347,12 +323,6 @@
       "category": "人文",
       "year": "2023",
       "photos": [
-        {
-          "src": "/photos/paris/01.webp",
-          "caption": "咖啡馆藤椅排成一排,像观众席。",
-          "location": "Paris, France",
-          "year": "2023"
-        },
         {
           "src": "/photos/paris/02.webp",
           "caption": "有人在街角抽烟,有人在街角接吻。",
@@ -739,12 +709,6 @@
       "year": "2025",
       "photos": [
         {
-          "src": "/photos/procida-2/01.webp",
-          "caption": "",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
           "src": "/photos/procida-2/02.webp",
           "caption": "",
           "location": "Procida, Italy",
@@ -803,12 +767,6 @@
       "category": "风光",
       "year": "2025",
       "photos": [
-        {
-          "src": "/photos/amalfi/01.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
         {
           "src": "/photos/amalfi/02.webp",
           "caption": "",
@@ -1362,12 +1320,6 @@
       "year": "2024",
       "photos": [
         {
-          "src": "/photos/kanazawa/01.webp",
-          "caption": "",
-          "location": "Kanazawa, Japan",
-          "year": "2024"
-        },
-        {
           "src": "/photos/kanazawa/02.webp",
           "caption": "",
           "location": "Kanazawa, Japan",
@@ -1545,12 +1497,6 @@
       "year": "2024",
       "photos": [
         {
-          "src": "/photos/weekend-walk/01.webp",
-          "caption": "",
-          "location": "China",
-          "year": "2024"
-        },
-        {
           "src": "/photos/weekend-walk/02.webp",
           "caption": "",
           "location": "China",
@@ -1687,12 +1633,6 @@
       "year": "2024",
       "photos": [
         {
-          "src": "/photos/matakana/01.webp",
-          "caption": "",
-          "location": "Matakana, New Zealand",
-          "year": "2024"
-        },
-        {
           "src": "/photos/matakana/02.webp",
           "caption": "",
           "location": "Matakana, New Zealand",
@@ -1757,12 +1697,6 @@
       "category": "人文",
       "year": "2024",
       "photos": [
-        {
-          "src": "/photos/auckland/01.webp",
-          "caption": "",
-          "location": "Auckland, New Zealand",
-          "year": "2024"
-        },
         {
           "src": "/photos/auckland/02.webp",
           "caption": "",
@@ -1829,12 +1763,6 @@
       "year": "2024",
       "photos": [
         {
-          "src": "/photos/singapore-orchard/01.webp",
-          "caption": "",
-          "location": "Singapore",
-          "year": "2024"
-        },
-        {
           "src": "/photos/singapore-orchard/02.webp",
           "caption": "",
           "location": "Singapore",
@@ -1887,12 +1815,6 @@
       "category": "人文",
       "year": "2024",
       "photos": [
-        {
-          "src": "/photos/mexico-city/01.webp",
-          "caption": "",
-          "location": "Mexico City, Mexico",
-          "year": "2024"
-        },
         {
           "src": "/photos/mexico-city/02.webp",
           "caption": "",
@@ -2084,7 +2006,7 @@
       "title": "Hemu",
       "subtitle": "冬日 · 禾木",
       "description": "新疆禾木的冬天像被按了静音键。木屋上结着厚厚的雪,炊烟直直地往上飘。",
-      "cover": "/photos/hemu/02.webp",
+      "cover": "/photos/hemu/01.webp",
       "category": "风光",
       "year": "2023",
       "photos": [
@@ -2574,12 +2496,6 @@
       "year": "2023",
       "photos": [
         {
-          "src": "/photos/shanghai-1933/01.webp",
-          "caption": "",
-          "location": "Shanghai, China",
-          "year": "2023"
-        },
-        {
           "src": "/photos/shanghai-1933/02.webp",
           "caption": "",
           "location": "Shanghai, China",
@@ -2645,12 +2561,6 @@
       "year": "2023",
       "photos": [
         {
-          "src": "/photos/london-mi/01.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        },
-        {
           "src": "/photos/london-mi/02.webp",
           "caption": "",
           "location": "London, UK",
@@ -2715,12 +2625,6 @@
       "category": "人文",
       "year": "2023",
       "photos": [
-        {
-          "src": "/photos/copenhagen/01.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
         {
           "src": "/photos/copenhagen/02.webp",
           "caption": "",
@@ -2822,12 +2726,6 @@
       "category": "人文",
       "year": "2023",
       "photos": [
-        {
-          "src": "/photos/paris-1/01.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
         {
           "src": "/photos/paris-1/02.webp",
           "caption": "",
@@ -3053,18 +2951,6 @@
       "category": "人文",
       "year": "2023",
       "photos": [
-        {
-          "src": "/photos/london-night/01.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/london-night/02.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        },
         {
           "src": "/photos/london-night/03.webp",
           "caption": "",
