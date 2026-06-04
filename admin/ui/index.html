@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dirty_Sheep · 后台</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { font-family: -apple-system, "PingFang SC", "Helvetica Neue", sans-serif; }
+    .thumb { aspect-ratio: 1/1; object-fit: cover; }
+    .dragging { opacity: .35; }
+    .drop-target { outline: 2px dashed #6366f1; outline-offset: -2px; }
+    textarea { resize: vertical; }
+    /* 简约滚动条 */
+    ::-webkit-scrollbar { width: 8px; height: 8px; }
+    ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+  </style>
+</head>
+<body class="bg-stone-50 text-stone-900">
+  <header class="sticky top-0 z-30 bg-white/85 backdrop-blur border-b border-stone-200">
+    <div class="max-w-7xl mx-auto px-5 py-3 flex items-center gap-4">
+      <h1 class="font-semibold tracking-tight">Dirty_Sheep · 后台</h1>
+      <span id="status-pill" class="text-xs px-2 py-0.5 rounded-full bg-stone-100 text-stone-600">载入中…</span>
+      <div class="flex-1"></div>
+      <a href="https://nicolaschueng.github.io/photography-site/" target="_blank"
+        class="text-xs text-stone-500 hover:text-stone-900">线上站点 ↗</a>
+      <button id="btn-publish" class="text-sm px-3 py-1.5 rounded-md bg-stone-900 text-white hover:bg-black disabled:opacity-50">
+        发布到线上
+      </button>
+    </div>
+  </header>
+
+  <main class="max-w-7xl mx-auto px-5 py-6 grid grid-cols-12 gap-6">
+    <!-- 左:集合列表 -->
+    <aside class="col-span-12 md:col-span-4 lg:col-span-3">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-sm font-medium text-stone-500 uppercase tracking-widest">作品集</h2>
+        <button id="btn-new-collection" class="text-xs px-2 py-1 rounded bg-stone-900 text-white hover:bg-black">+ 新建</button>
+      </div>
+      <ul id="collection-list" class="space-y-1 max-h-[calc(100vh-150px)] overflow-y-auto pr-1"></ul>
+    </aside>
+
+    <!-- 右:编辑面板 -->
+    <section class="col-span-12 md:col-span-8 lg:col-span-9">
+      <div id="editor" class="bg-white rounded-xl border border-stone-200 p-6">
+        <p class="text-stone-400 text-center py-20">从左侧选择作品集开始编辑,或点击「新建」</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- toast -->
+  <div id="toast" class="fixed bottom-6 left-1/2 -translate-x-1/2 px-4 py-2 rounded-lg bg-stone-900 text-white text-sm opacity-0 transition pointer-events-none z-50"></div>
+
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
