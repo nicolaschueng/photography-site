@@ -47,6 +47,15 @@ html.dark body {
   filter: brightness(0.92);
 }
 
+/* preview thumbs under cover */
+.preview-img {
+  transition: opacity 0.45s ease, filter 0.45s ease;
+}
+.cover-card:hover .preview-img {
+  opacity: 1;
+  filter: brightness(0.96);
+}
+
 /* fade-in on scroll */
 .fade-in {
   opacity: 0;

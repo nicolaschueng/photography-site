@@ -25,7 +25,7 @@ export default function CollectionDetail() {
   return (
     <div className="page-enter">
       {/* Back link */}
-      <div className="mx-auto max-w-5xl px-5 sm:px-6 md:px-10 pt-6 sm:pt-10">
+      <div className="mx-auto max-w-5xl px-6 sm:px-6 md:px-10 pt-5 sm:pt-10">
         <Link
           to="/"
           className="inline-flex items-center gap-2 text-[12px] tracking-widest2 uppercase opacity-60 hover:opacity-100 transition-opacity"
@@ -35,33 +35,33 @@ export default function CollectionDetail() {
       </div>
 
       {/* Title block */}
-      <header className="mx-auto max-w-3xl px-5 sm:px-6 md:px-10 pt-8 sm:pt-12 md:pt-16 pb-8 sm:pb-10 text-center">
+      <header className="mx-auto max-w-3xl px-6 sm:px-6 md:px-10 pt-6 sm:pt-10 md:pt-16 pb-7 sm:pb-10 text-center">
         <p className="text-[11px] sm:text-[12px] tracking-widest2 uppercase opacity-55">
           {collection.category} · {collection.year}
         </p>
-        <h1 className="mt-3 sm:mt-4 font-display text-3xl sm:text-4xl md:text-6xl tracking-tight leading-[1.15] md:leading-[1.1] break-words">
+        <h1 className="mt-3 sm:mt-4 font-display text-[26px] leading-[1.2] sm:text-4xl md:text-6xl sm:leading-[1.15] md:leading-[1.1] tracking-tight break-words">
           {collection.title}
         </h1>
-        <p className="mt-3 italic text-base sm:text-lg md:text-xl opacity-75">
+        <p className="mt-3 italic text-[15px] sm:text-lg md:text-xl opacity-75">
           {collection.subtitle}
         </p>
-        <p className="mx-auto mt-6 sm:mt-8 max-w-xl text-[14.5px] sm:text-[15px] md:text-[16px] leading-[1.9] md:leading-[1.95] opacity-80">
+        <p className="mx-auto mt-5 sm:mt-8 max-w-xl text-[14px] sm:text-[15px] md:text-[16px] leading-[1.85] sm:leading-[1.9] md:leading-[1.95] opacity-80">
           {collection.description}
         </p>
-        <div className="mt-8 sm:mt-10 flex justify-center">
-          <span className="rule w-16" />
+        <div className="mt-7 sm:mt-10 flex justify-center">
+          <span className="rule w-12 sm:w-16" />
         </div>
       </header>
 
       {/* Photo stream — gallery style, single column for storytelling */}
-      <section className="mx-auto max-w-3xl md:max-w-4xl px-5 sm:px-6 md:px-10">
+      <section className="mx-auto max-w-3xl md:max-w-4xl px-6 sm:px-6 md:px-10">
         {collection.photos.map((photo, i) => (
           <PhotoBlock key={i} index={i} photo={photo} />
         ))}
       </section>
 
       {/* End mark */}
-      <div className="mx-auto max-w-3xl px-5 sm:px-6 md:px-10 mt-16 sm:mt-24 text-center">
+      <div className="mx-auto max-w-3xl px-6 sm:px-6 md:px-10 mt-20 sm:mt-24 text-center">
         <span className="font-display text-2xl opacity-50">— fin —</span>
       </div>
     </div>
@@ -77,8 +77,8 @@ function PhotoBlock({
 }) {
   const ref = useReveal<HTMLDivElement>();
   return (
-    <div ref={ref} className="fade-in mt-12 sm:mt-16 md:mt-24 first:mt-0">
-      <div className="bg-black/5 dark:bg-white/5">
+    <div ref={ref} className="fade-in mt-16 sm:mt-20 md:mt-28 first:mt-0">
+      <div className="bg-black/5 dark:bg-white/5 rounded-sm sm:rounded-none overflow-hidden">
         <img
           src={asset(photo.src)}
           alt={photo.caption}
@@ -92,11 +92,11 @@ function PhotoBlock({
           {photo.location ? ` · ${photo.location}` : ''}
           {photo.year ? ` · ${photo.year}` : ''}
         </p>
-        <p className="mt-2 sm:mt-3 font-serif text-base sm:text-lg md:text-xl leading-[1.7] italic">
+        <p className="mt-2 sm:mt-3 font-serif text-[15px] sm:text-lg md:text-xl leading-[1.7] italic">
           {photo.caption}
         </p>
         {photo.story && (
-          <p className="mt-2 sm:mt-3 text-[14.5px] sm:text-[15px] md:text-[15.5px] leading-[1.9] md:leading-[1.95] opacity-80">
+          <p className="mt-2 sm:mt-3 text-[14px] sm:text-[15px] md:text-[15.5px] leading-[1.85] sm:leading-[1.9] md:leading-[1.95] opacity-80">
             {photo.story}
           </p>
         )}
