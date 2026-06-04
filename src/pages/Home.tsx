@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import { useMemo, useState } from 'react';
 import { collections } from '../data/collections';
 import { useReveal } from '../hooks/useReveal';
+import { asset } from '../utils/asset';
 
 type Filter = 'all' | '人文' | '风光';
 
@@ -33,7 +34,7 @@ export default function Home() {
         <div className="flex justify-center">
           <div className="relative">
             <img
-              src="/avatar/me-hd.jpg"
+              src={asset('/avatar/me-hd.jpg')}
               alt="Dirty_Sheep"
               className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 rounded-full object-cover"
             />
@@ -138,7 +139,7 @@ function CollectionCard({
     >
       <div className="overflow-hidden bg-black/5 dark:bg-white/5 aspect-[4/5] sm:aspect-auto">
         <img
-          src={cover}
+          src={asset(cover)}
           alt={title}
           loading="lazy"
           className="cover-img w-full h-full sm:h-[400px] md:h-[440px] object-cover"

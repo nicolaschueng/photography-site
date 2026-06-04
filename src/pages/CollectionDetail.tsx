@@ -2,6 +2,7 @@ import { Link, useParams } from 'react-router-dom';
 import { ArrowLeft } from 'lucide-react';
 import { getCollection } from '../data/collections';
 import { useReveal } from '../hooks/useReveal';
+import { asset } from '../utils/asset';
 
 export default function CollectionDetail() {
   const { slug = '' } = useParams();
@@ -79,7 +80,7 @@ function PhotoBlock({
     <div ref={ref} className="fade-in mt-12 sm:mt-16 md:mt-24 first:mt-0">
       <div className="bg-black/5 dark:bg-white/5">
         <img
-          src={photo.src}
+          src={asset(photo.src)}
           alt={photo.caption}
           loading="lazy"
           className="w-full h-auto object-cover"
