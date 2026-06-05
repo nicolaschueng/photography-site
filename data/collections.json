@@ -16,12 +16,6 @@
           "year": "2025"
         },
         {
-          "src": "/photos/procida/03.webp",
-          "caption": "老人靠着门框抽烟,世界从他面前慢慢经过。",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
           "src": "/photos/procida/05.webp",
           "caption": "黑白让色彩退场,留下表情和姿态。",
           "location": "Procida, Italy",
@@ -34,20 +28,8 @@
           "year": "2025"
         },
         {
-          "src": "/photos/procida/07.webp",
-          "caption": "咖啡店的窗,既是入口也是出口。",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida/08.webp",
-          "caption": "阴影在地上写字,只有按快门的人能读。",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida/09.webp",
-          "caption": "我喜欢这种没有目的的步行,慢到能看见自己。",
+          "src": "/photos/procida/03.webp",
+          "caption": "老人靠着门框抽烟,世界从他面前慢慢经过。",
           "location": "Procida, Italy",
           "year": "2025"
         }
@@ -63,6 +45,12 @@
       "year": "2025",
       "photos": [
         {
+          "src": "/photos/procida-2/05.webp",
+          "caption": "一扇门关了很久,缝里还在漏出风。",
+          "location": "Procida, Italy",
+          "year": "2025"
+        },
+        {
           "src": "/photos/procida-2/04.webp",
           "caption": "巷子拐过去还是巷子,光也跟着拐了个弯。",
           "location": "Procida, Italy",
@@ -75,38 +63,8 @@
           "year": "2025"
         },
         {
-          "src": "/photos/procida-2/05.webp",
-          "caption": "一扇门关了很久,缝里还在漏出风。",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
           "src": "/photos/procida-2/03.webp",
           "caption": "阳光把日子,晒成了同一种颜色。",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida-2/08.webp",
-          "caption": "海近在咫尺,但我没有走过去。",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida-2/06.webp",
-          "caption": "石头记得的事,比人多。",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida-2/07.webp",
-          "caption": "她从镜头里走出去,走进了下一段时间。",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida-2/09.webp",
-          "caption": "走着走着,就忘了来这里要做什么。",
           "location": "Procida, Italy",
           "year": "2025"
         }
@@ -152,18 +110,6 @@
           "year": "2024"
         },
         {
-          "src": "/photos/london/07.webp",
-          "caption": "她的红色风衣,是这一节车厢里唯一的色块。",
-          "location": "London, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/london/08.webp",
-          "caption": "车门关闭前,有人最后一秒挤进来。",
-          "location": "London, UK",
-          "year": "2024"
-        },
-        {
           "src": "/photos/london/09.webp",
           "caption": "广告牌把人切成两半。",
           "location": "London, UK",
@@ -193,32 +139,32 @@
           "year": "2023"
         },
         {
-          "src": "/photos/paris/02.webp",
-          "caption": "有人在街角抽烟,有人在街角接吻。",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris/03.webp",
-          "caption": "面包房的橱窗,暖到让人想哭。",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris/04.webp",
-          "caption": "地铁口涌出的人,各自走向各自的故事。",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
           "src": "/photos/paris/05.webp",
           "caption": "老式书店的玻璃,反射着塞纳河的光。",
           "location": "Paris, France",
           "year": "2023"
         },
         {
+          "src": "/photos/paris/02.webp",
+          "caption": "有人在街角抽烟,有人在街角接吻。",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris/10.webp",
+          "caption": "离开那天,雨刚好下了一会儿。",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
           "src": "/photos/paris/06.webp",
           "caption": "狗比主人,还从容地走在前面。",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris/04.webp",
+          "caption": "地铁口涌出的人,各自走向各自的故事。",
           "location": "Paris, France",
           "year": "2023"
         },
@@ -233,12 +179,6 @@
           "caption": "街角小酒馆,黄昏时最热闹。",
           "location": "Paris, France",
           "year": "2023"
-        },
-        {
-          "src": "/photos/paris/10.webp",
-          "caption": "离开那天,雨刚好下了一会儿。",
-          "location": "Paris, France",
-          "year": "2023"
         }
       ]
     },
@@ -246,7 +186,7 @@
       "slug": "germany-austria",
       "title": "Germany & Austria",
       "subtitle": "周中德国 · 周末奥地利",
-      "description": "出差是借口,镜头是真的。德国的秩序与奥地利的松弛,在同一周里反复切换,像一首节奏古怪的曲子。",
+      "description": "德国的秩序与奥地利的松弛,在同一周里反复切换,像一首节奏古怪的曲子。",
       "cover": "/photos/germany-austria/07.webp",
       "category": "人文",
       "year": "2025",
@@ -254,6 +194,12 @@
         {
           "src": "/photos/germany-austria/07.webp",
           "caption": "出差的间隙,城市在我口袋里发亮。",
+          "location": "Germany / Austria",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/germany-austria/05.webp",
+          "caption": "公司楼下的咖啡,认识每一件西装。",
           "location": "Germany / Austria",
           "year": "2025"
         },
@@ -282,24 +228,6 @@
           "year": "2025"
         },
         {
-          "src": "/photos/germany-austria/05.webp",
-          "caption": "公司楼下的咖啡,认识每一件西装。",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/06.webp",
-          "caption": "阿尔卑斯的余光,周末才会探出来。",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/08.webp",
-          "caption": "奥地利的午后,慢得像一首老歌。",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
           "src": "/photos/germany-austria/09.webp",
           "caption": "湖边的木椅上,有人睡到太阳偏西。",
           "location": "Germany / Austria",
@@ -312,32 +240,14 @@
           "year": "2025"
         },
         {
-          "src": "/photos/germany-austria/11.webp",
-          "caption": "啤酒花园里,陌生人也碰一下杯。",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
           "src": "/photos/germany-austria/12.webp",
           "caption": "教堂的彩窗,把光切成颜色。",
           "location": "Germany / Austria",
           "year": "2025"
         },
         {
-          "src": "/photos/germany-austria/13.webp",
-          "caption": "山顶的风,把所有念头都吹散。",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
           "src": "/photos/germany-austria/14.webp",
           "caption": "路过一家旧书店,没进去,但记住了它。",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/15.webp",
-          "caption": "周一早上,又回到秩序里。",
           "location": "Germany / Austria",
           "year": "2025"
         }
@@ -352,6 +262,12 @@
       "category": "人文",
       "year": "2024",
       "photos": [
+        {
+          "src": "/photos/penang/06.webp",
+          "caption": "庙门上的字,被烟熏得越来越黑。",
+          "location": "Penang, Malaysia",
+          "year": "2024"
+        },
         {
           "src": "/photos/penang/13.webp",
           "caption": "夜市开张前,摊主在认真摆放每一盏灯。",
@@ -371,24 +287,6 @@
           "year": "2024"
         },
         {
-          "src": "/photos/penang/04.webp",
-          "caption": "骑楼下的光柱,切开人和阴影。",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/05.webp",
-          "caption": "三轮车师傅,靠在椅背上打盹。",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/06.webp",
-          "caption": "庙门上的字,被烟熏得越来越黑。",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
           "src": "/photos/penang/07.webp",
           "caption": "卖水果的摊车,一辆比一辆鲜艳。",
           "location": "Penang, Malaysia",
@@ -401,38 +299,8 @@
           "year": "2024"
         },
         {
-          "src": "/photos/penang/09.webp",
-          "caption": "海边的栈桥,木头被晒得开裂。",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/10.webp",
-          "caption": "咖啡店的老风扇,还在转。",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
           "src": "/photos/penang/11.webp",
           "caption": "穿校服的小孩成群结队,嬉笑声传得很远。",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/12.webp",
-          "caption": "落日把整条街,染成铜色。",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/14.webp",
-          "caption": "摩托车从骑楼底冲出来,带起一阵风。",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/15.webp",
-          "caption": "回头看一眼,这条街又老了一点。",
           "location": "Penang, Malaysia",
           "year": "2024"
         }
@@ -482,12 +350,6 @@
           "caption": "火山在远处冒烟,镇上的人不抬头。",
           "location": "Kyushu, Japan",
           "year": "2025"
-        },
-        {
-          "src": "/photos/fukuoka/07.webp",
-          "caption": "离开前,买了一罐最简单的咖啡。",
-          "location": "Kyushu, Japan",
-          "year": "2025"
         }
       ]
     },
@@ -513,14 +375,20 @@
           "year": "2025"
         },
         {
-          "src": "/photos/turkey-2/02.webp",
-          "caption": "海峡把城市切成两半,灯都亮在两岸。",
+          "src": "/photos/turkey-2/05.webp",
+          "caption": "清真寺的圆顶,像被光熨过。",
           "location": "Türkiye",
           "year": "2025"
         },
         {
-          "src": "/photos/turkey-2/05.webp",
-          "caption": "清真寺的圆顶,像被光熨过。",
+          "src": "/photos/turkey-2/06.webp",
+          "caption": "地下城的台阶,每一级都被磨亮了。",
+          "location": "Türkiye",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/turkey-2/02.webp",
+          "caption": "海峡把城市切成两半,灯都亮在两岸。",
           "location": "Türkiye",
           "year": "2025"
         },
@@ -543,12 +411,6 @@
           "year": "2025"
         },
         {
-          "src": "/photos/turkey-2/06.webp",
-          "caption": "地下城的台阶,每一级都被磨亮了。",
-          "location": "Türkiye",
-          "year": "2025"
-        },
-        {
           "src": "/photos/turkey-2/09.webp",
           "caption": "离开那天,博斯普鲁斯刮着一种很旧的风。",
           "location": "Türkiye",
@@ -566,14 +428,8 @@
       "year": "2025",
       "photos": [
         {
-          "src": "/photos/tokyo/02.webp",
-          "caption": "西装、口罩、白色衬衫,一种当代制服。",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/03.webp",
-          "caption": "她在窗边低头看手机,光从外面打进来。",
+          "src": "/photos/tokyo/08.webp",
+          "caption": "街头的标识,比人更早醒来。",
           "location": "Tokyo, Japan",
           "year": "2025"
         },
@@ -584,20 +440,20 @@
           "year": "2025"
         },
         {
+          "src": "/photos/tokyo/12.webp",
+          "caption": "人潮散开的瞬间,会有几秒空旷。",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/tokyo/03.webp",
+          "caption": "她在窗边低头看手机,光从外面打进来。",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        },
+        {
           "src": "/photos/tokyo/06.webp",
           "caption": "地铁口的红色,像血管的开口。",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/07.webp",
-          "caption": "便利店的灯,永远亮着。",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/08.webp",
-          "caption": "街头的标识,比人更早醒来。",
           "location": "Tokyo, Japan",
           "year": "2025"
         },
@@ -610,18 +466,6 @@
         {
           "src": "/photos/tokyo/10.webp",
           "caption": "老人推着购物车,慢慢走过自己年轻时的车站。",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/11.webp",
-          "caption": "雨后的柏油路,反射着所有招牌。",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/12.webp",
-          "caption": "人潮散开的瞬间,会有几秒空旷。",
           "location": "Tokyo, Japan",
           "year": "2025"
         },
@@ -816,12 +660,6 @@
           "year": "2025"
         },
         {
-          "src": "/photos/amalfi/12.webp",
-          "caption": "黄昏的时候,整座岛都开始发光。",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
           "src": "/photos/amalfi/13.webp",
           "caption": "餐桌摆在悬崖边,菜单也是海。",
           "location": "Campania, Italy",
@@ -845,7 +683,7 @@
       "slug": "rome",
       "title": "Rome",
       "subtitle": "永恒之城",
-      "description": "罗马太满了——满到每一块石头都在说话。你只能挑某个下午,蹲在喷泉旁边,听其中几块。",
+      "description": "每一块石头都在说话。你只能挑某个下午,蹲在喷泉旁边,听其中几块。",
       "cover": "/photos/rome/13.webp",
       "category": "人文",
       "year": "2025",
@@ -857,8 +695,20 @@
           "year": "2025"
         },
         {
+          "src": "/photos/rome/04.webp",
+          "caption": "鸽子停在皇帝头上,像是早就习惯了。",
+          "location": "Rome, Italy",
+          "year": "2025"
+        },
+        {
           "src": "/photos/rome/02.webp",
           "caption": "喷泉边的水声,把游客的喧哗冲淡了一点。",
+          "location": "Rome, Italy",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/rome/07.webp",
+          "caption": "黄昏的颜色,是被太阳晒了两千年才有的。",
           "location": "Rome, Italy",
           "year": "2025"
         },
@@ -869,26 +719,8 @@
           "year": "2025"
         },
         {
-          "src": "/photos/rome/04.webp",
-          "caption": "鸽子停在皇帝头上,像是早就习惯了。",
-          "location": "Rome, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/rome/05.webp",
-          "caption": "街边的橙子树,挂着金色的钟。",
-          "location": "Rome, Italy",
-          "year": "2025"
-        },
-        {
           "src": "/photos/rome/06.webp",
           "caption": "罗马的猫,比游客更懂这座城。",
-          "location": "Rome, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/rome/07.webp",
-          "caption": "黄昏的颜色,是被太阳晒了两千年才有的。",
           "location": "Rome, Italy",
           "year": "2025"
         },
@@ -1023,14 +855,8 @@
       "year": "2025",
       "photos": [
         {
-          "src": "/photos/sf-walk/01.webp",
-          "caption": "这座城是斜的,但人都装作没事。",
-          "location": "San Francisco, USA",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/sf-walk/02.webp",
-          "caption": "坡上回头,城市的天际线在风里。",
+          "src": "/photos/sf-walk/08.webp",
+          "caption": "红色的金门隐约在雾里,真假难辨。",
           "location": "San Francisco, USA",
           "year": "2025"
         },
@@ -1041,32 +867,26 @@
           "year": "2025"
         },
         {
-          "src": "/photos/sf-walk/04.webp",
-          "caption": "路口的电车叮叮一下,像一个慢动作。",
-          "location": "San Francisco, USA",
-          "year": "2025"
-        },
-        {
           "src": "/photos/sf-walk/05.webp",
           "caption": "雾从海里爬上来,顺着街道走。",
           "location": "San Francisco, USA",
           "year": "2025"
         },
         {
-          "src": "/photos/sf-walk/06.webp",
-          "caption": "涂鸦在阳光下,好像更想说话。",
+          "src": "/photos/sf-walk/04.webp",
+          "caption": "路口的电车叮叮一下,像一个慢动作。",
+          "location": "San Francisco, USA",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/sf-walk/02.webp",
+          "caption": "坡上回头,城市的天际线在风里。",
           "location": "San Francisco, USA",
           "year": "2025"
         },
         {
           "src": "/photos/sf-walk/07.webp",
           "caption": "公园的草地上,所有人都在小睡。",
-          "location": "San Francisco, USA",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/sf-walk/08.webp",
-          "caption": "红色的金门隐约在雾里,真假难辨。",
           "location": "San Francisco, USA",
           "year": "2025"
         },
@@ -1085,12 +905,6 @@
         {
           "src": "/photos/sf-walk/11.webp",
           "caption": "下坡的时候,影子比我先到。",
-          "location": "San Francisco, USA",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/sf-walk/12.webp",
-          "caption": "走累了,就坐在码头看船。",
           "location": "San Francisco, USA",
           "year": "2025"
         }
@@ -1124,6 +938,12 @@
           "year": "2025"
         },
         {
+          "src": "/photos/osaka/07.webp",
+          "caption": "地铁口的笑声,比东京响一倍。",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
           "src": "/photos/osaka/04.webp",
           "caption": "老阿姨在小巷里晾衣服,毛巾比衣服多。",
           "location": "Osaka, Japan",
@@ -1138,12 +958,6 @@
         {
           "src": "/photos/osaka/06.webp",
           "caption": "拉面碗里的热气,把整个晚上都焐暖了。",
-          "location": "Osaka, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/osaka/07.webp",
-          "caption": "地铁口的笑声,比东京响一倍。",
           "location": "Osaka, Japan",
           "year": "2025"
         },
@@ -1168,12 +982,6 @@
         {
           "src": "/photos/osaka/11.webp",
           "caption": "居酒屋的木门,关上是一个小世界。",
-          "location": "Osaka, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/osaka/12.webp",
-          "caption": "城堡在远处亮着灯,像一个旧故事。",
           "location": "Osaka, Japan",
           "year": "2025"
         },
@@ -1213,6 +1021,12 @@
           "year": "2025"
         },
         {
+          "src": "/photos/hokkaido-2/07.webp",
+          "caption": "一个人吹很久的风,也算一种取暖。",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
           "src": "/photos/hokkaido-2/04.webp",
           "caption": "木屋的烟囱,慢慢吐出一缕念头。",
           "location": "Hokkaido, Japan",
@@ -1227,18 +1041,6 @@
         {
           "src": "/photos/hokkaido-2/06.webp",
           "caption": "温泉的雾,把人变成了影子。",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hokkaido-2/07.webp",
-          "caption": "一个人吹很久的风,也算一种取暖。",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hokkaido-2/08.webp",
-          "caption": "雪地上的脚印,被风一吹就成了空白。",
           "location": "Hokkaido, Japan",
           "year": "2025"
         },
@@ -1261,12 +1063,6 @@
           "year": "2025"
         },
         {
-          "src": "/photos/hokkaido-2/12.webp",
-          "caption": "跨年的夜里,神社门口的灯排成一行。",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
-        },
-        {
           "src": "/photos/hokkaido-2/13.webp",
           "caption": "凌晨零点,所有人都安静了一秒。",
           "location": "Hokkaido, Japan",
@@ -1275,12 +1071,6 @@
         {
           "src": "/photos/hokkaido-2/14.webp",
           "caption": "雪压着松枝,松枝低着头。",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hokkaido-2/15.webp",
-          "caption": "列车窗外,景色一闪一闪地过。",
           "location": "Hokkaido, Japan",
           "year": "2025"
         },
@@ -1326,6 +1116,12 @@
           "year": "2024"
         },
         {
+          "src": "/photos/kanazawa/07.webp",
+          "caption": "石板路反射着所有招牌,人在上面浮。",
+          "location": "Kanazawa, Japan",
+          "year": "2024"
+        },
+        {
           "src": "/photos/kanazawa/05.webp",
           "caption": "老茶屋的红色,被雨洗得很沉。",
           "location": "Kanazawa, Japan",
@@ -1334,30 +1130,6 @@
         {
           "src": "/photos/kanazawa/06.webp",
           "caption": "拐角的灯,亮得像一句温柔的话。",
-          "location": "Kanazawa, Japan",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/kanazawa/07.webp",
-          "caption": "石板路反射着所有招牌,人在上面浮。",
-          "location": "Kanazawa, Japan",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/kanazawa/08.webp",
-          "caption": "一个人走在金泽,听得见自己的脚步。",
-          "location": "Kanazawa, Japan",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/kanazawa/09.webp",
-          "caption": "雨小了一点,街又安静了一点。",
-          "location": "Kanazawa, Japan",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/kanazawa/10.webp",
-          "caption": "回旅馆的路上,我笑了一下。",
           "location": "Kanazawa, Japan",
           "year": "2024"
         }
@@ -1379,14 +1151,14 @@
           "year": "2024"
         },
         {
-          "src": "/photos/toyama/02.webp",
-          "caption": "海是镜子,照着另一座山。",
+          "src": "/photos/toyama/03.webp",
+          "caption": "渔船一字排开,等天亮。",
           "location": "Toyama, Japan",
           "year": "2024"
         },
         {
-          "src": "/photos/toyama/03.webp",
-          "caption": "渔船一字排开,等天亮。",
+          "src": "/photos/toyama/02.webp",
+          "caption": "海是镜子,照着另一座山。",
           "location": "Toyama, Japan",
           "year": "2024"
         },
@@ -1468,12 +1240,6 @@
           "year": "2024"
         },
         {
-          "src": "/photos/weekend-walk/07.webp",
-          "caption": "路边的银杏,等了很久才黄。",
-          "location": "China",
-          "year": "2024"
-        },
-        {
           "src": "/photos/weekend-walk/08.webp",
           "caption": "周末的咖啡店,人比工作日少一半。",
           "location": "China",
@@ -1482,18 +1248,6 @@
         {
           "src": "/photos/weekend-walk/09.webp",
           "caption": "桥下面,有人在跑步。",
-          "location": "China",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/weekend-walk/10.webp",
-          "caption": "走两小时,日子就过去半天。",
-          "location": "China",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/weekend-walk/11.webp",
-          "caption": "回家的时候,顺手买了一束花。",
           "location": "China",
           "year": "2024"
         }
@@ -1509,14 +1263,8 @@
       "year": "2024",
       "photos": [
         {
-          "src": "/photos/brighton/01.webp",
-          "caption": "风把一切都吹得很硬。",
-          "location": "Brighton, UK",
-          "year": "2024"
-        },
-        {
           "src": "/photos/brighton/02.webp",
-          "caption": "白崖站在海前面,白得不像石头。",
+          "caption": "白崖站在海前面。",
           "location": "Brighton, UK",
           "year": "2024"
         },
@@ -1535,12 +1283,6 @@
         {
           "src": "/photos/brighton/05.webp",
           "caption": "木栈道一直伸到海里,像一句没说完的话。",
-          "location": "Brighton, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/brighton/06.webp",
-          "caption": "站在悬崖边,我什么都没想。",
           "location": "Brighton, UK",
           "year": "2024"
         },
@@ -1574,20 +1316,8 @@
       "year": "2024",
       "photos": [
         {
-          "src": "/photos/matakana/02.webp",
-          "caption": "集市的早晨,从一杯咖啡开始。",
-          "location": "Matakana, New Zealand",
-          "year": "2024"
-        },
-        {
           "src": "/photos/matakana/03.webp",
           "caption": "农场主的笑容,比阳光还热。",
-          "location": "Matakana, New Zealand",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/matakana/04.webp",
-          "caption": "蜂蜜罐排成一行,亮得像金子。",
           "location": "Matakana, New Zealand",
           "year": "2024"
         },
@@ -1598,14 +1328,20 @@
           "year": "2024"
         },
         {
-          "src": "/photos/matakana/06.webp",
-          "caption": "老木桌上摆着奶酪,刀就插在旁边。",
+          "src": "/photos/matakana/02.webp",
+          "caption": "集市的早晨,从一杯咖啡开始。",
           "location": "Matakana, New Zealand",
           "year": "2024"
         },
         {
-          "src": "/photos/matakana/07.webp",
-          "caption": "现榨的果汁,装在带把的玻璃瓶里。",
+          "src": "/photos/matakana/04.webp",
+          "caption": "蜂蜜罐排成一行,亮得像金子。",
+          "location": "Matakana, New Zealand",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/matakana/06.webp",
+          "caption": "老木桌上摆着奶酪,刀就插在旁边。",
           "location": "Matakana, New Zealand",
           "year": "2024"
         },
@@ -1620,12 +1356,6 @@
           "caption": "一只狗在摊位之间溜达。",
           "location": "Matakana, New Zealand",
           "year": "2024"
-        },
-        {
-          "src": "/photos/matakana/10.webp",
-          "caption": "离开时,袋子里多了几样不太需要的好东西。",
-          "location": "Matakana, New Zealand",
-          "year": "2024"
         }
       ]
     },
@@ -1634,10 +1364,34 @@
       "title": "Auckland City",
       "subtitle": "奥克兰 · city",
       "description": "奥克兰是一座海港城市,白天云大,夜里灯不密。比大城市少一点喧嚣,比小镇多一点节奏。",
-      "cover": "/photos/auckland/02.webp",
+      "cover": "/photos/auckland/08.webp",
       "category": "人文",
       "year": "2024",
       "photos": [
+        {
+          "src": "/photos/auckland/08.webp",
+          "caption": "渡轮的笛声,把海划开一道。",
+          "location": "Auckland, New Zealand",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/auckland/06.webp",
+          "caption": "路边的人不太着急,城市也不着急。",
+          "location": "Auckland, New Zealand",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/auckland/05.webp",
+          "caption": "城市天际线,被云压得很低。",
+          "location": "Auckland, New Zealand",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/auckland/07.webp",
+          "caption": "黄昏的天,蓝得像一块布。",
+          "location": "Auckland, New Zealand",
+          "year": "2024"
+        },
         {
           "src": "/photos/auckland/02.webp",
           "caption": "港口的云,大得像另一座岛。",
@@ -1653,30 +1407,6 @@
         {
           "src": "/photos/auckland/04.webp",
           "caption": "码头边的咖啡馆,玻璃反射着海。",
-          "location": "Auckland, New Zealand",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/auckland/05.webp",
-          "caption": "城市天际线,被云压得很低。",
-          "location": "Auckland, New Zealand",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/auckland/06.webp",
-          "caption": "路边的人不太着急,城市也不着急。",
-          "location": "Auckland, New Zealand",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/auckland/07.webp",
-          "caption": "黄昏的天,蓝得像一块布。",
-          "location": "Auckland, New Zealand",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/auckland/08.webp",
-          "caption": "渡轮的笛声,把海划开一道。",
           "location": "Auckland, New Zealand",
           "year": "2024"
         },
@@ -1763,6 +1493,12 @@
           "year": "2024"
         },
         {
+          "src": "/photos/mexico-city/06.webp",
+          "caption": "教堂的尖顶,被日落染成橘色。",
+          "location": "Mexico City, Mexico",
+          "year": "2024"
+        },
+        {
           "src": "/photos/mexico-city/03.webp",
           "caption": "街上的颜色饱和得像一种主张。",
           "location": "Mexico City, Mexico",
@@ -1775,26 +1511,20 @@
           "year": "2024"
         },
         {
+          "src": "/photos/mexico-city/08.webp",
+          "caption": "街角有人弹吉他,有人跟着唱。",
+          "location": "Mexico City, Mexico",
+          "year": "2024"
+        },
+        {
           "src": "/photos/mexico-city/05.webp",
           "caption": "街边的玉米饼摊,排着长队。",
           "location": "Mexico City, Mexico",
           "year": "2024"
         },
         {
-          "src": "/photos/mexico-city/06.webp",
-          "caption": "教堂的尖顶,被日落染成橘色。",
-          "location": "Mexico City, Mexico",
-          "year": "2024"
-        },
-        {
           "src": "/photos/mexico-city/07.webp",
           "caption": "老房子的墙,刷成了所有颜色。",
-          "location": "Mexico City, Mexico",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/mexico-city/08.webp",
-          "caption": "街角有人弹吉他,有人跟着唱。",
           "location": "Mexico City, Mexico",
           "year": "2024"
         },
@@ -1817,16 +1547,10 @@
       "title": "SF · Sunlight",
       "subtitle": "再到三番 · 阳光正好",
       "description": "倒时差的早晨,阳光把整座城刷得格外干净。这种光,只有西海岸才有。",
-      "cover": "/photos/sf-sun/01.webp",
+      "cover": "/photos/sf-sun/02.webp",
       "category": "人文",
       "year": "2024",
       "photos": [
-        {
-          "src": "/photos/sf-sun/01.webp",
-          "caption": "倒时差的早晨,光最干净。",
-          "location": "San Francisco, USA",
-          "year": "2024"
-        },
         {
           "src": "/photos/sf-sun/02.webp",
           "caption": "西海岸的阳光,有一种被洗过的感觉。",
@@ -1846,18 +1570,6 @@
           "year": "2024"
         },
         {
-          "src": "/photos/sf-sun/05.webp",
-          "caption": "公园的草地上,有人在练瑜伽。",
-          "location": "San Francisco, USA",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/sf-sun/06.webp",
-          "caption": "海风一吹,这一天就开始了。",
-          "location": "San Francisco, USA",
-          "year": "2024"
-        },
-        {
           "src": "/photos/sf-sun/07.webp",
           "caption": "阳光把整座城,刷得格外干净。",
           "location": "San Francisco, USA",
@@ -1870,7 +1582,7 @@
       "title": "Hokkaido",
       "subtitle": "北海道跨年 · 一周目",
       "description": "第一次去北海道跨年。雪、温泉、清酒,以及凌晨零点神社门口的那一长串灯笼。",
-      "cover": "/photos/hokkaido-1/05.webp",
+      "cover": "/photos/hokkaido-1/01.webp",
       "category": "风光",
       "year": "2023",
       "photos": [
@@ -1893,6 +1605,12 @@
           "year": "2023"
         },
         {
+          "src": "/photos/hokkaido-1/07.webp",
+          "caption": "列车在雪原上滑过,像一条句子。",
+          "location": "Hokkaido, Japan",
+          "year": "2023"
+        },
+        {
           "src": "/photos/hokkaido-1/04.webp",
           "caption": "温泉里冒着白气,人在水里发呆。",
           "location": "Hokkaido, Japan",
@@ -1911,12 +1629,6 @@
           "year": "2023"
         },
         {
-          "src": "/photos/hokkaido-1/07.webp",
-          "caption": "列车在雪原上滑过,像一条句子。",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        },
-        {
           "src": "/photos/hokkaido-1/08.webp",
           "caption": "木屋窗里的灯,把雪点亮一小块。",
           "location": "Hokkaido, Japan",
@@ -1931,12 +1643,6 @@
         {
           "src": "/photos/hokkaido-1/10.webp",
           "caption": "路边的稻荷神社,被雪盖住了一半。",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hokkaido-1/11.webp",
-          "caption": "跨过零点的那一秒,世界安静了一下。",
           "location": "Hokkaido, Japan",
           "year": "2023"
         }
@@ -1958,14 +1664,8 @@
           "year": "2023"
         },
         {
-          "src": "/photos/hemu/02.webp",
-          "caption": "木屋上结着厚厚的雪,像一层白棉被。",
-          "location": "Hemu, Xinjiang",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hemu/03.webp",
-          "caption": "炊烟直直往上飘,天也蓝得很直。",
+          "src": "/photos/hemu/08.webp",
+          "caption": "一个人站在桥上,觉得自己很小。",
           "location": "Hemu, Xinjiang",
           "year": "2023"
         },
@@ -1982,26 +1682,14 @@
           "year": "2023"
         },
         {
+          "src": "/photos/hemu/02.webp",
+          "caption": "木屋上结着厚厚的雪,像一层白棉被。",
+          "location": "Hemu, Xinjiang",
+          "year": "2023"
+        },
+        {
           "src": "/photos/hemu/06.webp",
           "caption": "太阳从山后探出来,雪先被点亮。",
-          "location": "Hemu, Xinjiang",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hemu/07.webp",
-          "caption": "院子里劈柴的声音,传得很远。",
-          "location": "Hemu, Xinjiang",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hemu/08.webp",
-          "caption": "一个人站在桥上,觉得自己很小。",
-          "location": "Hemu, Xinjiang",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hemu/09.webp",
-          "caption": "离开禾木,我把寒气也带走了一点。",
           "location": "Hemu, Xinjiang",
           "year": "2023"
         }
@@ -2035,14 +1723,14 @@
           "year": "2023"
         },
         {
-          "src": "/photos/urumqi/04.webp",
-          "caption": "出租车的尾灯,在雪里像一颗红色的句号。",
+          "src": "/photos/urumqi/05.webp",
+          "caption": "老房子的窗,亮着家的颜色。",
           "location": "Urumqi, Xinjiang",
           "year": "2023"
         },
         {
-          "src": "/photos/urumqi/05.webp",
-          "caption": "老房子的窗,亮着家的颜色。",
+          "src": "/photos/urumqi/04.webp",
+          "caption": "出租车的尾灯,在雪里像一颗红色的句号。",
           "location": "Urumqi, Xinjiang",
           "year": "2023"
         },
@@ -2070,20 +1758,32 @@
           "year": "2023"
         },
         {
-          "src": "/photos/bahrain/02.webp",
-          "caption": "集市的香料堆,香得像一阵风。",
-          "location": "Manama, Bahrain",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/bahrain/03.webp",
-          "caption": "老清真寺的白,比沙漠还白。",
+          "src": "/photos/bahrain/11.webp",
+          "caption": "街角的咖啡馆,薄荷茶端上来。",
           "location": "Manama, Bahrain",
           "year": "2023"
         },
         {
           "src": "/photos/bahrain/04.webp",
           "caption": "海湾边的高楼,像一排玻璃竖起。",
+          "location": "Manama, Bahrain",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/bahrain/02.webp",
+          "caption": "集市的香料堆,香得像一阵风。",
+          "location": "Manama, Bahrain",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/bahrain/08.webp",
+          "caption": "巷子里有孩子在踢球。",
+          "location": "Manama, Bahrain",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/bahrain/03.webp",
+          "caption": "老清真寺的白,比沙漠还白。",
           "location": "Manama, Bahrain",
           "year": "2023"
         },
@@ -2106,12 +1806,6 @@
           "year": "2023"
         },
         {
-          "src": "/photos/bahrain/08.webp",
-          "caption": "巷子里有孩子在踢球。",
-          "location": "Manama, Bahrain",
-          "year": "2023"
-        },
-        {
           "src": "/photos/bahrain/09.webp",
           "caption": "黄昏的礼拜声,让所有动作慢下来。",
           "location": "Manama, Bahrain",
@@ -2120,12 +1814,6 @@
         {
           "src": "/photos/bahrain/10.webp",
           "caption": "老市场的灯泡,黄得像旧故事。",
-          "location": "Manama, Bahrain",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/bahrain/11.webp",
-          "caption": "街角的咖啡馆,薄荷茶端上来。",
           "location": "Manama, Bahrain",
           "year": "2023"
         },
@@ -2153,18 +1841,6 @@
           "year": "2023"
         },
         {
-          "src": "/photos/oman/02.webp",
-          "caption": "阿曼的海,深得像一种沉默。",
-          "location": "Muscat, Oman",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/oman/03.webp",
-          "caption": "山是石头堆起来的,海在山脚下。",
-          "location": "Muscat, Oman",
-          "year": "2023"
-        },
-        {
           "src": "/photos/oman/04.webp",
           "caption": "公路一直往远处伸,影子越来越长。",
           "location": "Muscat, Oman",
@@ -2173,6 +1849,18 @@
         {
           "src": "/photos/oman/05.webp",
           "caption": "清真寺的圆顶,和沙漠的颜色一致。",
+          "location": "Muscat, Oman",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/oman/02.webp",
+          "caption": "阿曼的海,深得像一种沉默。",
+          "location": "Muscat, Oman",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/oman/03.webp",
+          "caption": "山是石头堆起来的,海在山脚下。",
           "location": "Muscat, Oman",
           "year": "2023"
         },
@@ -2230,6 +1918,12 @@
       "year": "2023",
       "photos": [
         {
+          "src": "/photos/saudi/09.webp",
+          "caption": "海风从港口吹过来,夹着鱼腥味。",
+          "location": "Jeddah, Saudi Arabia",
+          "year": "2023"
+        },
+        {
           "src": "/photos/saudi/01.webp",
           "caption": "红海边的旧城,珊瑚石的颜色。",
           "location": "Jeddah, Saudi Arabia",
@@ -2238,6 +1932,12 @@
         {
           "src": "/photos/saudi/02.webp",
           "caption": "老房子的木窗,雕得像一种语言。",
+          "location": "Jeddah, Saudi Arabia",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/saudi/07.webp",
+          "caption": "夜里的咖啡馆,大家围着小桌喝薄荷茶。",
           "location": "Jeddah, Saudi Arabia",
           "year": "2023"
         },
@@ -2266,20 +1966,8 @@
           "year": "2023"
         },
         {
-          "src": "/photos/saudi/07.webp",
-          "caption": "夜里的咖啡馆,大家围着小桌喝薄荷茶。",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
-        },
-        {
           "src": "/photos/saudi/08.webp",
           "caption": "老门上的铜环,被摸得发亮。",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/saudi/09.webp",
-          "caption": "海风从港口吹过来,夹着鱼腥味。",
           "location": "Jeddah, Saudi Arabia",
           "year": "2023"
         },
@@ -2292,12 +1980,6 @@
         {
           "src": "/photos/saudi/11.webp",
           "caption": "月亮从清真寺顶上升起来。",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/saudi/12.webp",
-          "caption": "离开前,我又看了一次旧城。",
           "location": "Jeddah, Saudi Arabia",
           "year": "2023"
         }
@@ -2319,8 +2001,20 @@
           "year": "2023"
         },
         {
+          "src": "/photos/nz-southisland/07.webp",
+          "caption": "在任何一段路上停下,都是明信片。",
+          "location": "Queenstown, New Zealand",
+          "year": "2023"
+        },
+        {
           "src": "/photos/nz-southisland/02.webp",
           "caption": "湖水蓝得像滤镜没关。",
+          "location": "Queenstown, New Zealand",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/nz-southisland/05.webp",
+          "caption": "雪山倒影在湖里,真假各占一半。",
           "location": "Queenstown, New Zealand",
           "year": "2023"
         },
@@ -2337,20 +2031,8 @@
           "year": "2023"
         },
         {
-          "src": "/photos/nz-southisland/05.webp",
-          "caption": "雪山倒影在湖里,真假各占一半。",
-          "location": "Queenstown, New Zealand",
-          "year": "2023"
-        },
-        {
           "src": "/photos/nz-southisland/06.webp",
           "caption": "牛羊在山脚下,慢慢走过一生。",
-          "location": "Queenstown, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/nz-southisland/07.webp",
-          "caption": "在任何一段路上停下,都是明信片。",
           "location": "Queenstown, New Zealand",
           "year": "2023"
         }
@@ -2361,16 +2043,10 @@
       "title": "Greymouth · Sunset",
       "subtitle": "格雷茅斯 · 夕阳",
       "description": "新西兰西海岸的小镇,运气好的话能看到一场把整片塔斯曼海烧起来的夕阳。",
-      "cover": "/photos/greymouth/01.webp",
+      "cover": "/photos/greymouth/02.webp",
       "category": "风光",
       "year": "2023",
       "photos": [
-        {
-          "src": "/photos/greymouth/01.webp",
-          "caption": "西海岸的小镇,适合一场夕阳。",
-          "location": "Greymouth, New Zealand",
-          "year": "2023"
-        },
         {
           "src": "/photos/greymouth/02.webp",
           "caption": "塔斯曼海被烧成了一种橘红。",
@@ -2378,8 +2054,8 @@
           "year": "2023"
         },
         {
-          "src": "/photos/greymouth/03.webp",
-          "caption": "海浪拍上岩石,溅起金色的光。",
+          "src": "/photos/greymouth/07.webp",
+          "caption": "风把云吹成一种很慢的颜色。",
           "location": "Greymouth, New Zealand",
           "year": "2023"
         },
@@ -2390,20 +2066,8 @@
           "year": "2023"
         },
         {
-          "src": "/photos/greymouth/05.webp",
-          "caption": "渔船泊在港口,船头都对着同一个方向。",
-          "location": "Greymouth, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/greymouth/06.webp",
-          "caption": "灯塔在远处,慢慢眨眼。",
-          "location": "Greymouth, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/greymouth/07.webp",
-          "caption": "风把云吹成一种很慢的颜色。",
+          "src": "/photos/greymouth/03.webp",
+          "caption": "海浪拍上岩石,溅起金色的光。",
           "location": "Greymouth, New Zealand",
           "year": "2023"
         },
@@ -2455,14 +2119,14 @@
           "year": "2023"
         },
         {
-          "src": "/photos/shanghai-1933/05.webp",
-          "caption": "楼梯一层叠一层,像一个结构主义的画。",
+          "src": "/photos/shanghai-1933/06.webp",
+          "caption": "廊桥之间,空气也分了层。",
           "location": "Shanghai, China",
           "year": "2023"
         },
         {
-          "src": "/photos/shanghai-1933/06.webp",
-          "caption": "廊桥之间,空气也分了层。",
+          "src": "/photos/shanghai-1933/05.webp",
+          "caption": "楼梯一层叠一层,像一个结构主义的画。",
           "location": "Shanghai, China",
           "year": "2023"
         },
@@ -2514,8 +2178,8 @@
           "year": "2023"
         },
         {
-          "src": "/photos/london-mi/04.webp",
-          "caption": "手机也能拍到的瞬间,反而最真。",
+          "src": "/photos/london-mi/06.webp",
+          "caption": "同一段路,今天的雨比昨天小。",
           "location": "London, UK",
           "year": "2023"
         },
@@ -2526,8 +2190,8 @@
           "year": "2023"
         },
         {
-          "src": "/photos/london-mi/06.webp",
-          "caption": "同一段路,今天的雨比昨天小。",
+          "src": "/photos/london-mi/04.webp",
+          "caption": "手机也能拍到的瞬间,反而最真。",
           "location": "London, UK",
           "year": "2023"
         },
@@ -2562,37 +2226,13 @@
       "title": "Copenhagen",
       "subtitle": "哥本哈根 · 周末",
       "description": "北欧的克制和讲究,在哥本哈根具象化:自行车比汽车多,运河边的房子色彩干净,人走路都不太着急。",
-      "cover": "/photos/copenhagen/07.webp",
+      "cover": "/photos/copenhagen/03.webp",
       "category": "人文",
       "year": "2023",
       "photos": [
         {
-          "src": "/photos/copenhagen/02.webp",
-          "caption": "北欧的克制,在这里具象化。",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
           "src": "/photos/copenhagen/03.webp",
           "caption": "自行车比汽车多,街反而显宽。",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/04.webp",
-          "caption": "运河边的房子,颜色干净得像一张色卡。",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/05.webp",
-          "caption": "没人着急,连灯都不太眨眼。",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/06.webp",
-          "caption": "咖啡馆的木桌,被胳膊磨得发亮。",
           "location": "Copenhagen, Denmark",
           "year": "2023"
         },
@@ -2603,8 +2243,26 @@
           "year": "2023"
         },
         {
+          "src": "/photos/copenhagen/06.webp",
+          "caption": "咖啡馆的木桌,被胳膊磨得发亮。",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
           "src": "/photos/copenhagen/08.webp",
           "caption": "桥上停着一排自行车,等主人。",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/11.webp",
+          "caption": "设计师的店,只摆几样东西,但都好看。",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/04.webp",
+          "caption": "运河边的房子,颜色干净得像一张色卡。",
           "location": "Copenhagen, Denmark",
           "year": "2023"
         },
@@ -2617,12 +2275,6 @@
         {
           "src": "/photos/copenhagen/10.webp",
           "caption": "路过一家旧书店,玻璃里有人在读书。",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/11.webp",
-          "caption": "设计师的店,只摆几样东西,但都好看。",
           "location": "Copenhagen, Denmark",
           "year": "2023"
         },
@@ -2668,14 +2320,8 @@
       "year": "2023",
       "photos": [
         {
-          "src": "/photos/paris-1/02.webp",
-          "caption": "第一次到巴黎,赶得像打仗。",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/03.webp",
-          "caption": "但赶有赶的好,反而最直接。",
+          "src": "/photos/paris-1/15.webp",
+          "caption": "黄昏的香榭丽舍,光把所有橱窗点亮。",
           "location": "Paris, France",
           "year": "2023"
         },
@@ -2686,8 +2332,14 @@
           "year": "2023"
         },
         {
-          "src": "/photos/paris-1/05.webp",
-          "caption": "铁塔从街角忽然探出来,我笑出声。",
+          "src": "/photos/paris-1/03.webp",
+          "caption": "但赶有赶的好,反而最直接。",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/10.webp",
+          "caption": "面包房的香味,随便走过哪条街都有。",
           "location": "Paris, France",
           "year": "2023"
         },
@@ -2698,8 +2350,8 @@
           "year": "2023"
         },
         {
-          "src": "/photos/paris-1/07.webp",
-          "caption": "卢浮宫前的人群,各自摆姿势。",
+          "src": "/photos/paris-1/05.webp",
+          "caption": "铁塔从街角忽然探出来,我笑出声。",
           "location": "Paris, France",
           "year": "2023"
         },
@@ -2712,12 +2364,6 @@
         {
           "src": "/photos/paris-1/09.webp",
           "caption": "圣母院在脚手架后面,还在慢慢长回来。",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/10.webp",
-          "caption": "面包房的香味,随便走过哪条街都有。",
           "location": "Paris, France",
           "year": "2023"
         },
@@ -2746,12 +2392,6 @@
           "year": "2023"
         },
         {
-          "src": "/photos/paris-1/15.webp",
-          "caption": "黄昏的香榭丽舍,光把所有橱窗点亮。",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
           "src": "/photos/paris-1/16.webp",
           "caption": "蒙马特的台阶,比山还要陡。",
           "location": "Paris, France",
@@ -2774,18 +2414,6 @@
       "category": "风光",
       "year": "2023",
       "photos": [
-        {
-          "src": "/photos/fuji/01.webp",
-          "caption": "等了一整天,云才肯散开。",
-          "location": "Kawaguchiko, Japan",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/fuji/02.webp",
-          "caption": "河口湖的水里,有另一座富士山。",
-          "location": "Kawaguchiko, Japan",
-          "year": "2023"
-        },
         {
           "src": "/photos/fuji/03.webp",
           "caption": "风把湖面吹成银鳞。",
@@ -2822,12 +2450,6 @@
       "year": "2023",
       "photos": [
         {
-          "src": "/photos/kamakura/01.webp",
-          "caption": "镰仓把所有温柔,都装进了一个小镇。",
-          "location": "Kamakura, Japan",
-          "year": "2023"
-        },
-        {
           "src": "/photos/kamakura/02.webp",
           "caption": "江之电从海边经过,人都看向窗外。",
           "location": "Kamakura, Japan",
@@ -2854,6 +2476,12 @@
         {
           "src": "/photos/kamakura/06.webp",
           "caption": "大佛的眼睛,半合着,像在睡又像在看。",
+          "location": "Kamakura, Japan",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/kamakura/01.webp",
+          "caption": "镰仓把所有温柔,都装进了一个小镇。",
           "location": "Kamakura, Japan",
           "year": "2023"
         },
@@ -2888,7 +2516,7 @@
       "title": "London Night",
       "subtitle": "夜伦敦 · city walk",
       "description": "伦敦的夜不暗。河边、桥头、地铁口,黄色的灯把石头都焐暖了。",
-      "cover": "/photos/london-night/05.webp",
+      "cover": "/photos/london-night/03.webp",
       "category": "人文",
       "year": "2023",
       "photos": [
@@ -3035,12 +2663,6 @@
           "year": "2022"
         },
         {
-          "src": "/photos/dubai/03.webp",
-          "caption": "海边的高楼,白天和晚上是两座城。",
-          "location": "Dubai, UAE",
-          "year": "2022"
-        },
-        {
           "src": "/photos/dubai/04.webp",
           "caption": "沙漠的风,带着一点黄昏的颜色。",
           "location": "Dubai, UAE",
@@ -3059,7 +2681,7 @@
       "title": "Hagia Sophia",
       "subtitle": "土耳其 · 圣索菲亚",
       "description": "既是教堂也是清真寺,既是拜占庭也是奥斯曼。一座建筑里藏着两个文明的对望。",
-      "cover": "/photos/hagia-sophia/02.webp",
+      "cover": "/photos/hagia-sophia/01.webp",
       "category": "人文",
       "year": "2022",
       "photos": [
@@ -3076,26 +2698,8 @@
           "year": "2022"
         },
         {
-          "src": "/photos/hagia-sophia/03.webp",
-          "caption": "拜占庭的金色,被时间慢慢洗淡。",
-          "location": "Istanbul, Türkiye",
-          "year": "2022"
-        },
-        {
           "src": "/photos/hagia-sophia/04.webp",
           "caption": "阿拉伯文的圆牌,挂在基督的壁画旁。",
-          "location": "Istanbul, Türkiye",
-          "year": "2022"
-        },
-        {
-          "src": "/photos/hagia-sophia/05.webp",
-          "caption": "人在中央站着,声音飘到很高的地方。",
-          "location": "Istanbul, Türkiye",
-          "year": "2022"
-        },
-        {
-          "src": "/photos/hagia-sophia/06.webp",
-          "caption": "大理石的地面,被脚步擦亮了千年。",
           "location": "Istanbul, Türkiye",
           "year": "2022"
         },
