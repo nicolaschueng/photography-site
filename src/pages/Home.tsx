@@ -10,12 +10,10 @@ export default function Home() {
   const [filter, setFilter] = useState<Filter>('all');
 
   const list = useMemo(() => {
-    const arr =
-      filter === 'all'
-        ? collections
-        : collections.filter((c) => c.category === filter);
-    // 按 year 降序;同一年保持原顺序
-    return [...arr].sort((a, b) => Number(b.year) - Number(a.year));
+    // 顺序完全跟随后台拖拽保存的 collections.json
+    return filter === 'all'
+      ? collections
+      : collections.filter((c) => c.category === filter);
   }, [filter]);
 
   const counts = useMemo(
