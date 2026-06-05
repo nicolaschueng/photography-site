@@ -92,9 +92,11 @@ function PhotoBlock({
           {photo.location ? ` · ${photo.location}` : ''}
           {photo.year ? ` · ${photo.year}` : ''}
         </p>
-        <p className="mt-2 sm:mt-3 font-serif text-[15px] sm:text-lg md:text-xl leading-[1.7] italic">
-          {photo.caption}
-        </p>
+        {photo.caption && (
+          <p className="mt-2 sm:mt-3 font-serif text-[15px] sm:text-lg md:text-xl leading-[1.7] italic">
+            {photo.caption}
+          </p>
+        )}
         {photo.story && (
           <p className="mt-2 sm:mt-3 text-[14px] sm:text-[15px] md:text-[15.5px] leading-[1.85] sm:leading-[1.9] md:leading-[1.95] opacity-80">
             {photo.story}

@@ -47,7 +47,7 @@ export default function Home() {
         </h1>
 
         <p className="signature mt-5 sm:mt-8 text-base sm:text-xl md:text-2xl opacity-90">
-          "漫漫人生路,瞎搞搞如何"
+          "行且看,定风波"
         </p>
 
         <div className="mt-7 sm:mt-12 flex justify-center">
