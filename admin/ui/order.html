@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>图集排序 · 极简版</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font: 14px/1.5 -apple-system, BlinkMacSystemFont, "PingFang SC", system-ui, sans-serif;
+      background: #fafaf9;
+      color: #1c1917;
+    }
+    @media (prefers-color-scheme: dark) {
+      body { background: #0c0a09; color: #e7e5e4; }
+      .row { background: #1c1917; border-color: #292524; }
+      .row:hover { border-color: #57534e; }
+      .row.dragging { opacity: .4; }
+      .row.drop-before { border-top-color: #f59e0b; }
+      .row.drop-after  { border-bottom-color: #f59e0b; }
+      header { background: #0c0a09cc; border-color: #292524; }
+      button { background: #292524; color: #e7e5e4; border-color: #44403c; }
+      button:hover { background: #44403c; }
+      .btn-primary { background: #f59e0b; color: #1c1917; border-color: #f59e0b; }
+      .btn-primary:hover { background: #fbbf24; }
+      .meta { color: #a8a29e; }
+    }
+    header {
+      position: sticky; top: 0; z-index: 10;
+      background: #fafaf9cc;
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid #e7e5e4;
+      padding: 12px 24px;
+      display: flex; align-items: center; gap: 12px;
+    }
+    h1 { font-size: 15px; font-weight: 600; margin: 0; }
+    .grow { flex: 1; }
+    button {
+      font: inherit;
+      padding: 6px 14px;
+      border: 1px solid #d6d3d1;
+      background: #fff;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    button:hover { background: #f5f5f4; }
+    .btn-primary { background: #1c1917; color: #fff; border-color: #1c1917; }
+    .btn-primary:hover { background: #44403c; }
+    main { padding: 16px 24px 80px; max-width: 760px; margin: 0 auto; }
+    ul { list-style: none; padding: 0; margin: 0; }
+    .row {
+      display: flex; align-items: center; gap: 10px;
+      padding: 8px 10px;
+      margin-bottom: 6px;
+      background: #fff;
+      border: 1px solid #e7e5e4;
+      border-radius: 6px;
+      cursor: grab;
+      user-select: none;
+      transition: border-color .12s;
+    }
+    .row.dragging { opacity: .4; }
+    .row.drop-before { border-top: 2px solid #f59e0b; }
+    .row.drop-after  { border-bottom: 2px solid #f59e0b; }
+    .idx {
+      flex: 0 0 32px; text-align: right;
+      font-variant-numeric: tabular-nums;
+      color: #a8a29e; font-size: 12px;
+    }
+    .thumb {
+      flex: 0 0 36px; width: 36px; height: 36px;
+      background: #f5f5f4; border-radius: 4px;
+      overflow: hidden;
+      display: none;
+    }
+    body.show-thumbs .thumb { display: block; }
+    .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .title { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .meta { color: #78716c; font-size: 12px; margin-left: 6px; }
+    .arrows { display: flex; gap: 4px; flex: 0 0 auto; }
+    .arrows button { padding: 2px 8px; font-size: 13px; }
+    .handle {
+      flex: 0 0 auto; opacity: .35; padding: 0 4px;
+      cursor: grab;
+      letter-spacing: -1px;
+    }
+    .row:hover .handle { opacity: .8; }
+    label.toggle { display: flex; align-items: center; gap: 6px; font-size: 13px; cursor: pointer; }
+    .status { font-size: 12px; color: #78716c; }
+    .status.ok { color: #16a34a; }
+    .status.err { color: #dc2626; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>图集排序</h1>
+    <span class="status" id="status"></span>
+    <span class="grow"></span>
+    <label class="toggle">
+      <input type="checkbox" id="toggle-thumbs" />
+      显示封面
+    </label>
+    <button id="reset">恢复</button>
+    <button id="save" class="btn-primary">保存顺序</button>
+  </header>
+  <main>
+    <ul id="list"></ul>
+  </main>
+
+  <script>
+    const listEl = document.getElementById('list');
+    const statusEl = document.getElementById('status');
+    let original = [];
+    let current = [];
+
+    function setStatus(text, kind) {
+      statusEl.textContent = text || '';
+      statusEl.className = 'status' + (kind ? ' ' + kind : '');
+    }
+
+    function render() {
+      listEl.innerHTML = '';
+      const frag = document.createDocumentFragment();
+      current.forEach((c, i) => {
+        const li = document.createElement('li');
+        li.className = 'row';
+        li.draggable = true;
+        li.dataset.slug = c.slug;
+        li.innerHTML = `
+          <span class="handle" title="拖拽">⋮⋮</span>
+          <span class="idx">${String(i + 1).padStart(2, '0')}</span>
+          <span class="thumb">${c.cover ? `<img loading="lazy" src="${c.cover}" />` : ''}</span>
+          <span class="title">${c.title || c.slug}<span class="meta">· ${c.subtitle || ''} · ${c.year || ''} · ${c.photos?.length ?? 0}图</span></span>
+          <span class="arrows">
+            <button data-act="up" title="上移">↑</button>
+            <button data-act="down" title="下移">↓</button>
+          </span>
+        `;
+        frag.appendChild(li);
+      });
+      listEl.appendChild(frag);
+      updateIndexes();
+    }
+
+    function updateIndexes() {
+      [...listEl.children].forEach((li, i) => {
+        const idx = li.querySelector('.idx');
+        if (idx) idx.textContent = String(i + 1).padStart(2, '0');
+      });
+    }
+
+    function snapshotOrder() {
+      return [...listEl.children].map((li) => li.dataset.slug);
+    }
+
+    // 上下按钮:直接交换 DOM 节点,不全量重渲染
+    listEl.addEventListener('click', (e) => {
+      const btn = e.target.closest('button[data-act]');
+      if (!btn) return;
+      const li = btn.closest('li');
+      if (!li) return;
+      if (btn.dataset.act === 'up' && li.previousElementSibling) {
+        listEl.insertBefore(li, li.previousElementSibling);
+      } else if (btn.dataset.act === 'down' && li.nextElementSibling) {
+        listEl.insertBefore(li.nextElementSibling, li);
+      }
+      updateIndexes();
+      markDirty();
+    });
+
+    // 拖拽:也只是直接 DOM 移动
+    let dragging = null;
+    listEl.addEventListener('dragstart', (e) => {
+      const li = e.target.closest('li');
+      if (!li) return;
+      dragging = li;
+      li.classList.add('dragging');
+      e.dataTransfer.effectAllowed = 'move';
+    });
+    listEl.addEventListener('dragend', () => {
+      if (dragging) dragging.classList.remove('dragging');
+      [...listEl.querySelectorAll('.drop-before,.drop-after')].forEach((el) => {
+        el.classList.remove('drop-before', 'drop-after');
+      });
+      dragging = null;
+    });
+    listEl.addEventListener('dragover', (e) => {
+      e.preventDefault();
+      const li = e.target.closest('li');
+      if (!li || li === dragging) return;
+      [...listEl.querySelectorAll('.drop-before,.drop-after')].forEach((el) => {
+        el.classList.remove('drop-before', 'drop-after');
+      });
+      const r = li.getBoundingClientRect();
+      const before = (e.clientY - r.top) < r.height / 2;
+      li.classList.add(before ? 'drop-before' : 'drop-after');
+    });
+    listEl.addEventListener('drop', (e) => {
+      e.preventDefault();
+      const li = e.target.closest('li');
+      if (!li || !dragging || li === dragging) return;
+      const r = li.getBoundingClientRect();
+      const before = (e.clientY - r.top) < r.height / 2;
+      listEl.insertBefore(dragging, before ? li : li.nextSibling);
+      updateIndexes();
+      markDirty();
+    });
+
+    function markDirty() {
+      const cur = snapshotOrder().join(',');
+      const orig = original.map((c) => c.slug).join(',');
+      if (cur === orig) {
+        setStatus('未改动');
+      } else {
+        setStatus('已修改,记得保存', 'err');
+      }
+    }
+
+    document.getElementById('reset').addEventListener('click', () => {
+      current = original.slice();
+      render();
+      setStatus('已恢复原始顺序');
+    });
+
+    document.getElementById('save').addEventListener('click', async () => {
+      const slugs = snapshotOrder();
+      setStatus('保存中…');
+      try {
+        const r = await fetch('/api/collections/reorder', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ slugs }),
+        });
+        if (!r.ok) throw new Error('http ' + r.status);
+        // 同步 original
+        const data = await (await fetch('/api/collections')).json();
+        original = data.collections;
+        current = original.slice();
+        setStatus('已保存,可以继续拖,或切回主后台点"发布"推到 GitHub', 'ok');
+      } catch (err) {
+        setStatus('保存失败:' + err.message, 'err');
+      }
+    });
+
+    document.getElementById('toggle-thumbs').addEventListener('change', (e) => {
+      document.body.classList.toggle('show-thumbs', e.target.checked);
+    });
+
+    (async () => {
+      setStatus('加载中…');
+      const data = await (await fetch('/api/collections')).json();
+      original = data.collections;
+      current = original.slice();
+      render();
+      setStatus(`共 ${original.length} 个图集`);
+    })();
+  </script>
+</body>
+</html>

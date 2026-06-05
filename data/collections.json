@@ -1,359 +1,6 @@
 {
   "collections": [
     {
-      "slug": "procida",
-      "title": "Procida",
-      "subtitle": "街头摄影练习 · 意大利",
-      "description": "意大利最适合扫街的,感觉反而不是罗马、佛罗伦萨这些游客密集的地方。普罗奇达岛的小巷、教堂、午后阳光下的人,才是黑白纪实最舒服的呼吸。",
-      "cover": "/photos/procida/02.webp",
-      "category": "人文",
-      "year": "2025",
-      "photos": [
-        {
-          "src": "/photos/procida/02.webp",
-          "caption": "",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida/05.webp",
-          "caption": "",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida/06.webp",
-          "caption": "",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida/03.webp",
-          "caption": "",
-          "location": "Procida, Italy",
-          "year": "2025"
-        }
-      ]
-    },
-    {
-      "slug": "procida-2",
-      "title": "Procida II",
-      "subtitle": "街头摄影练习 · 二",
-      "description": "第二组 Procida,继续练。这次更想拍那种没人在的角落——光自己在那里,等不等人都行。",
-      "cover": "/photos/procida-2/05.webp",
-      "category": "人文",
-      "year": "2025",
-      "photos": [
-        {
-          "src": "/photos/procida-2/05.webp",
-          "caption": "",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida-2/04.webp",
-          "caption": "",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida-2/02.webp",
-          "caption": "",
-          "location": "Procida, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/procida-2/03.webp",
-          "caption": "",
-          "location": "Procida, Italy",
-          "year": "2025"
-        }
-      ]
-    },
-    {
-      "slug": "london",
-      "title": "London Underground",
-      "subtitle": "伦敦 · 地铁 · 意识流",
-      "description": "地铁是城市的潜意识。伦敦地铁尤其是,百年的瓷砖、老旧的扶梯、忽明忽暗的灯——每个人都在自己的小气泡里,顺着隧道流向未知的下一站。",
-      "cover": "/photos/london/04.webp",
-      "category": "人文",
-      "year": "2024",
-      "photos": [
-        {
-          "src": "/photos/london/04.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/london/02.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/london/05.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/london/03.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/london/06.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/london/09.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/london/10.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2024"
-        }
-      ]
-    },
-    {
-      "slug": "paris",
-      "title": "Paris",
-      "subtitle": "巴黎扫街 · 二",
-      "description": "第二次去巴黎,不再追地标。坐在咖啡馆门口看人来人往,反而更接近这座城本来的样子——优雅里藏着倦怠,浪漫里夹着一点点冷。",
-      "cover": "/photos/paris/08.webp",
-      "category": "人文",
-      "year": "2023",
-      "photos": [
-        {
-          "src": "/photos/paris/08.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris/05.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris/02.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris/10.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris/06.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris/04.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris/07.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris/09.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        }
-      ]
-    },
-    {
-      "slug": "germany-austria",
-      "title": "Germany & Austria",
-      "subtitle": "周中德国 · 周末奥地利",
-      "description": "德国的秩序与奥地利的松弛,在同一周里反复切换,像一首节奏古怪的曲子。",
-      "cover": "/photos/germany-austria/07.webp",
-      "category": "人文",
-      "year": "2025",
-      "photos": [
-        {
-          "src": "/photos/germany-austria/07.webp",
-          "caption": "",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/05.webp",
-          "caption": "",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/01.webp",
-          "caption": "",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/02.webp",
-          "caption": "",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/03.webp",
-          "caption": "",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/04.webp",
-          "caption": "",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/09.webp",
-          "caption": "",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/10.webp",
-          "caption": "",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/12.webp",
-          "caption": "",
-          "location": "Germany / Austria",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/germany-austria/14.webp",
-          "caption": "",
-          "location": "Germany / Austria",
-          "year": "2025"
-        }
-      ]
-    },
-    {
-      "slug": "penang",
-      "title": "Penang Walk",
-      "subtitle": "马来 · 槟城漫步",
-      "description": "槟城是被时间慢慢熬出来的城。骑楼、华人庙、印度小贩、英殖民老房子混在一起,海风把所有招牌都吹得有点旧。",
-      "cover": "/photos/penang/06.webp",
-      "category": "人文",
-      "year": "2024",
-      "photos": [
-        {
-          "src": "/photos/penang/06.webp",
-          "caption": "",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/13.webp",
-          "caption": "",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/03.webp",
-          "caption": "",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/02.webp",
-          "caption": "",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/07.webp",
-          "caption": "",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/08.webp",
-          "caption": "",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/penang/11.webp",
-          "caption": "",
-          "location": "Penang, Malaysia",
-          "year": "2024"
-        }
-      ]
-    },
-    {
-      "slug": "fukuoka",
-      "title": "Fukuoka & Kagoshima",
-      "subtitle": "福冈 · 鹿儿岛",
-      "description": "九州的节奏比东京慢一截。福冈的小巷、鹿儿岛的火山,两座城像同一个人的两面——一面收敛,一面热烈。",
-      "cover": "/photos/fukuoka/01.webp",
-      "category": "人文",
-      "year": "2025",
-      "photos": [
-        {
-          "src": "/photos/fukuoka/01.webp",
-          "caption": "",
-          "location": "Kyushu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/fukuoka/02.webp",
-          "caption": "",
-          "location": "Kyushu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/fukuoka/03.webp",
-          "caption": "",
-          "location": "Kyushu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/fukuoka/04.webp",
-          "caption": "",
-          "location": "Kyushu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/fukuoka/05.webp",
-          "caption": "",
-          "location": "Kyushu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/fukuoka/06.webp",
-          "caption": "",
-          "location": "Kyushu, Japan",
-          "year": "2025"
-        }
-      ]
-    },
-    {
       "slug": "turkey-2",
       "title": "Turkey · Again",
       "subtitle": "二刷土耳其",
@@ -414,267 +61,6 @@
           "src": "/photos/turkey-2/09.webp",
           "caption": "",
           "location": "Türkiye",
-          "year": "2025"
-        }
-      ]
-    },
-    {
-      "slug": "tokyo",
-      "title": "Tokyo",
-      "subtitle": "东京通勤 · 随手拍",
-      "description": "东京最迷人的不是樱花,是早高峰里那种密度——人在里面像被冲走的纸船,但每张脸都依旧很安静。",
-      "cover": "/photos/tokyo/08.webp",
-      "category": "人文",
-      "year": "2025",
-      "photos": [
-        {
-          "src": "/photos/tokyo/08.webp",
-          "caption": "",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/04.webp",
-          "caption": "",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/12.webp",
-          "caption": "",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/03.webp",
-          "caption": "",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/06.webp",
-          "caption": "",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/09.webp",
-          "caption": "",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/10.webp",
-          "caption": "",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/13.webp",
-          "caption": "",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/14.webp",
-          "caption": "",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/tokyo/15.webp",
-          "caption": "",
-          "location": "Tokyo, Japan",
-          "year": "2025"
-        }
-      ]
-    },
-    {
-      "slug": "hakone-izu",
-      "title": "Hakone & Izu",
-      "subtitle": "山里住两天 · 箱根 / 伊豆",
-      "description": "日本人懂得把山过出温柔的味道。温泉、雾、木头、慢吞吞的电车——你在里面待两天,就会忘记自己平时在赶什么。",
-      "cover": "/photos/hakone-izu/01.webp",
-      "category": "风光",
-      "year": "2025",
-      "photos": [
-        {
-          "src": "/photos/hakone-izu/01.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/02.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/03.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/04.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/05.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/06.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/07.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/08.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/09.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/10.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/11.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/12.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/13.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/14.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hakone-izu/15.webp",
-          "caption": "",
-          "location": "Hakone & Izu, Japan",
-          "year": "2025"
-        }
-      ]
-    },
-    {
-      "slug": "amalfi",
-      "title": "Amalfi Coast",
-      "subtitle": "那不勒斯 · 阿马尔菲海岸 · 普罗奇达",
-      "description": "坎帕尼亚的海岸线挂着一串糖一样的小镇。开车在山腰上一弯一弯地走,海蓝得像被洗了好多遍。",
-      "cover": "/photos/amalfi/02.webp",
-      "category": "风光",
-      "year": "2025",
-      "photos": [
-        {
-          "src": "/photos/amalfi/02.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/03.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/04.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/05.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/06.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/07.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/08.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/09.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/10.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/11.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/13.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/14.webp",
-          "caption": "",
-          "location": "Campania, Italy",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/amalfi/15.webp",
-          "caption": "",
-          "location": "Campania, Italy",
           "year": "2025"
         }
       ]
@@ -793,516 +179,474 @@
       ]
     },
     {
-      "slug": "suzhou",
-      "title": "Suzhou",
-      "subtitle": "苏州 · 好天气",
-      "description": "园林是中国人对‘节制’的最好诠释。一墙一窗一池水,什么都不多,什么都不少。",
-      "cover": "/photos/suzhou/02.webp",
+      "slug": "amalfi",
+      "title": "Amalfi Coast",
+      "subtitle": "那不勒斯 · 阿马尔菲海岸 · 普罗奇达",
+      "description": "坎帕尼亚的海岸线挂着一串糖一样的小镇。开车在山腰上一弯一弯地走,海蓝得像被洗了好多遍。",
+      "cover": "/photos/amalfi/02.webp",
       "category": "风光",
       "year": "2025",
       "photos": [
         {
-          "src": "/photos/suzhou/01.webp",
+          "src": "/photos/amalfi/02.webp",
           "caption": "",
-          "location": "Suzhou, China",
+          "location": "Campania, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/suzhou/02.webp",
+          "src": "/photos/amalfi/03.webp",
           "caption": "",
-          "location": "Suzhou, China",
+          "location": "Campania, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/suzhou/03.webp",
+          "src": "/photos/amalfi/04.webp",
           "caption": "",
-          "location": "Suzhou, China",
+          "location": "Campania, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/suzhou/04.webp",
+          "src": "/photos/amalfi/05.webp",
           "caption": "",
-          "location": "Suzhou, China",
+          "location": "Campania, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/suzhou/05.webp",
+          "src": "/photos/amalfi/06.webp",
           "caption": "",
-          "location": "Suzhou, China",
+          "location": "Campania, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/suzhou/06.webp",
+          "src": "/photos/amalfi/07.webp",
           "caption": "",
-          "location": "Suzhou, China",
+          "location": "Campania, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/suzhou/07.webp",
+          "src": "/photos/amalfi/08.webp",
           "caption": "",
-          "location": "Suzhou, China",
+          "location": "Campania, Italy",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/amalfi/09.webp",
+          "caption": "",
+          "location": "Campania, Italy",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/amalfi/10.webp",
+          "caption": "",
+          "location": "Campania, Italy",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/amalfi/11.webp",
+          "caption": "",
+          "location": "Campania, Italy",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/amalfi/13.webp",
+          "caption": "",
+          "location": "Campania, Italy",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/amalfi/14.webp",
+          "caption": "",
+          "location": "Campania, Italy",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/amalfi/15.webp",
+          "caption": "",
+          "location": "Campania, Italy",
           "year": "2025"
         }
       ]
     },
     {
-      "slug": "sf-walk",
-      "title": "San Francisco · Walk",
-      "subtitle": "行走旧金山",
-      "description": "旧金山是个高低错落的城市,你走着走着就到了海边。坡上回头是城市天际线,坡下是雾。",
-      "cover": "/photos/sf-walk/08.webp",
+      "slug": "paris",
+      "title": "Paris",
+      "subtitle": "巴黎扫街 · 二",
+      "description": "第二次去巴黎,不再追地标。坐在咖啡馆门口看人来人往,反而更接近这座城本来的样子——优雅里藏着倦怠,浪漫里夹着一点点冷。",
+      "cover": "/photos/paris/08.webp",
+      "category": "人文",
+      "year": "2023",
+      "photos": [
+        {
+          "src": "/photos/paris/08.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris/05.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris/02.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris/10.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris/06.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris/04.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris/07.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris/09.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "slug": "paris-1",
+      "title": "Paris · First Time",
+      "subtitle": "特种兵 · 巴黎扫街",
+      "description": "第一次去巴黎,赶得像打仗——但也正因为赶,反而拍下了一些最直接的反应。",
+      "cover": "/photos/paris-1/15.webp",
+      "category": "人文",
+      "year": "2023",
+      "photos": [
+        {
+          "src": "/photos/paris-1/15.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/04.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/03.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/10.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/06.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/05.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/08.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/09.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/11.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/12.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/13.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/14.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/16.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/paris-1/17.webp",
+          "caption": "",
+          "location": "Paris, France",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "slug": "procida-2",
+      "title": "Procida II",
+      "subtitle": "街头摄影练习 · 二",
+      "description": "第二组 Procida,继续练。这次更想拍那种没人在的角落——光自己在那里,等不等人都行。",
+      "cover": "/photos/procida-2/05.webp",
       "category": "人文",
       "year": "2025",
       "photos": [
         {
-          "src": "/photos/sf-walk/08.webp",
+          "src": "/photos/procida-2/05.webp",
           "caption": "",
-          "location": "San Francisco, USA",
+          "location": "Procida, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/sf-walk/03.webp",
+          "src": "/photos/procida-2/04.webp",
           "caption": "",
-          "location": "San Francisco, USA",
+          "location": "Procida, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/sf-walk/05.webp",
+          "src": "/photos/procida-2/02.webp",
           "caption": "",
-          "location": "San Francisco, USA",
+          "location": "Procida, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/sf-walk/04.webp",
+          "src": "/photos/procida-2/03.webp",
           "caption": "",
-          "location": "San Francisco, USA",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/sf-walk/02.webp",
-          "caption": "",
-          "location": "San Francisco, USA",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/sf-walk/07.webp",
-          "caption": "",
-          "location": "San Francisco, USA",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/sf-walk/09.webp",
-          "caption": "",
-          "location": "San Francisco, USA",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/sf-walk/10.webp",
-          "caption": "",
-          "location": "San Francisco, USA",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/sf-walk/11.webp",
-          "caption": "",
-          "location": "San Francisco, USA",
+          "location": "Procida, Italy",
           "year": "2025"
         }
       ]
     },
     {
-      "slug": "osaka",
-      "title": "Osaka",
-      "subtitle": "大阪 · 出差几日",
-      "description": "大阪的烟火气在街边——烤串的烟、便利店的灯、地铁出口的笑声。比东京更松,比京都更躁。",
-      "cover": "/photos/osaka/01.webp",
+      "slug": "london",
+      "title": "London Underground",
+      "subtitle": "伦敦 · 地铁 · 意识流",
+      "description": "地铁是城市的潜意识。伦敦地铁尤其是,百年的瓷砖、老旧的扶梯、忽明忽暗的灯——每个人都在自己的小气泡里,顺着隧道流向未知的下一站。",
+      "cover": "/photos/london/04.webp",
+      "category": "人文",
+      "year": "2024",
+      "photos": [
+        {
+          "src": "/photos/london/04.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/london/02.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/london/05.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/london/03.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/london/06.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/london/09.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/london/10.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "slug": "procida",
+      "title": "Procida",
+      "subtitle": "街头摄影练习 · 意大利",
+      "description": "意大利最适合扫街的,感觉反而不是罗马、佛罗伦萨这些游客密集的地方。普罗奇达岛的小巷、教堂、午后阳光下的人,才是黑白纪实最舒服的呼吸。",
+      "cover": "/photos/procida/02.webp",
       "category": "人文",
       "year": "2025",
       "photos": [
         {
-          "src": "/photos/osaka/01.webp",
+          "src": "/photos/procida/02.webp",
           "caption": "",
-          "location": "Osaka, Japan",
+          "location": "Procida, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/osaka/02.webp",
+          "src": "/photos/procida/05.webp",
           "caption": "",
-          "location": "Osaka, Japan",
+          "location": "Procida, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/osaka/03.webp",
+          "src": "/photos/procida/06.webp",
           "caption": "",
-          "location": "Osaka, Japan",
+          "location": "Procida, Italy",
           "year": "2025"
         },
         {
-          "src": "/photos/osaka/07.webp",
+          "src": "/photos/procida/03.webp",
           "caption": "",
-          "location": "Osaka, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/osaka/04.webp",
-          "caption": "",
-          "location": "Osaka, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/osaka/05.webp",
-          "caption": "",
-          "location": "Osaka, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/osaka/06.webp",
-          "caption": "",
-          "location": "Osaka, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/osaka/08.webp",
-          "caption": "",
-          "location": "Osaka, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/osaka/09.webp",
-          "caption": "",
-          "location": "Osaka, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/osaka/10.webp",
-          "caption": "",
-          "location": "Osaka, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/osaka/11.webp",
-          "caption": "",
-          "location": "Osaka, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/osaka/13.webp",
-          "caption": "",
-          "location": "Osaka, Japan",
+          "location": "Procida, Italy",
           "year": "2025"
         }
       ]
     },
     {
-      "slug": "hokkaido-2",
-      "title": "Hokkaido · Round 2",
-      "subtitle": "北海道跨年 · 二周目",
-      "description": "第二次跨年来北海道。雪还是那种雪,但人不一样了。小樽的天狗山、祝津展望台,适合一个人吹很久的风。",
-      "cover": "/photos/hokkaido-2/01.webp",
+      "slug": "nz-southisland",
+      "title": "NZ South Island",
+      "subtitle": "新西兰 · 南岛自驾 · 皇后镇",
+      "description": "皇后镇周边的山湖。自驾在南岛任何一段路上停下,基本都能拍出明信片。",
+      "cover": "/photos/nz-southisland/01.webp",
       "category": "风光",
-      "year": "2025",
+      "year": "2023",
       "photos": [
         {
-          "src": "/photos/hokkaido-2/01.webp",
+          "src": "/photos/nz-southisland/01.webp",
           "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
+          "location": "Queenstown, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/hokkaido-2/02.webp",
+          "src": "/photos/nz-southisland/07.webp",
           "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
+          "location": "Queenstown, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/hokkaido-2/03.webp",
+          "src": "/photos/nz-southisland/02.webp",
           "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
+          "location": "Queenstown, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/hokkaido-2/07.webp",
+          "src": "/photos/nz-southisland/05.webp",
           "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
+          "location": "Queenstown, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/hokkaido-2/04.webp",
+          "src": "/photos/nz-southisland/03.webp",
           "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
+          "location": "Queenstown, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/hokkaido-2/05.webp",
+          "src": "/photos/nz-southisland/04.webp",
           "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
+          "location": "Queenstown, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/hokkaido-2/06.webp",
+          "src": "/photos/nz-southisland/06.webp",
           "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hokkaido-2/09.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hokkaido-2/10.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hokkaido-2/11.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hokkaido-2/13.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hokkaido-2/14.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hokkaido-2/16.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
-        },
-        {
-          "src": "/photos/hokkaido-2/17.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2025"
+          "location": "Queenstown, New Zealand",
+          "year": "2023"
         }
       ]
     },
     {
-      "slug": "kanazawa",
-      "title": "Kanazawa · Rainy Night",
-      "subtitle": "金泽 · 雨夜",
-      "description": "金泽下雨那晚,我没有撑伞。雨把街灯打散在地上,每一步都像踩在另一座更亮的城里。",
-      "cover": "/photos/kanazawa/02.webp",
-      "category": "人文",
-      "year": "2024",
-      "photos": [
-        {
-          "src": "/photos/kanazawa/02.webp",
-          "caption": "",
-          "location": "Kanazawa, Japan",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/kanazawa/03.webp",
-          "caption": "",
-          "location": "Kanazawa, Japan",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/kanazawa/04.webp",
-          "caption": "",
-          "location": "Kanazawa, Japan",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/kanazawa/07.webp",
-          "caption": "",
-          "location": "Kanazawa, Japan",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/kanazawa/05.webp",
-          "caption": "",
-          "location": "Kanazawa, Japan",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/kanazawa/06.webp",
-          "caption": "",
-          "location": "Kanazawa, Japan",
-          "year": "2024"
-        }
-      ]
-    },
-    {
-      "slug": "toyama",
-      "title": "Toyama / Amaharashi",
-      "subtitle": "富山 · 高冈 · 雨晴",
-      "description": "雨晴海岸看立山——晴天时山是悬浮的,海是镜子。日本最浪漫的地理巧合之一。",
-      "cover": "/photos/toyama/01.webp",
+      "slug": "greymouth",
+      "title": "Greymouth · Sunset",
+      "subtitle": "格雷茅斯 · 夕阳",
+      "description": "新西兰西海岸的小镇,运气好的话能看到一场把整片塔斯曼海烧起来的夕阳。",
+      "cover": "/photos/greymouth/02.webp",
       "category": "风光",
-      "year": "2024",
+      "year": "2023",
       "photos": [
         {
-          "src": "/photos/toyama/01.webp",
+          "src": "/photos/greymouth/02.webp",
           "caption": "",
-          "location": "Toyama, Japan",
-          "year": "2024"
+          "location": "Greymouth, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/toyama/03.webp",
+          "src": "/photos/greymouth/07.webp",
           "caption": "",
-          "location": "Toyama, Japan",
-          "year": "2024"
+          "location": "Greymouth, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/toyama/02.webp",
+          "src": "/photos/greymouth/04.webp",
           "caption": "",
-          "location": "Toyama, Japan",
-          "year": "2024"
+          "location": "Greymouth, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/toyama/04.webp",
+          "src": "/photos/greymouth/03.webp",
           "caption": "",
-          "location": "Toyama, Japan",
-          "year": "2024"
+          "location": "Greymouth, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/toyama/05.webp",
+          "src": "/photos/greymouth/08.webp",
           "caption": "",
-          "location": "Toyama, Japan",
-          "year": "2024"
+          "location": "Greymouth, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/toyama/06.webp",
+          "src": "/photos/greymouth/09.webp",
           "caption": "",
-          "location": "Toyama, Japan",
-          "year": "2024"
+          "location": "Greymouth, New Zealand",
+          "year": "2023"
         },
         {
-          "src": "/photos/toyama/07.webp",
+          "src": "/photos/greymouth/10.webp",
           "caption": "",
-          "location": "Toyama, Japan",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/toyama/08.webp",
-          "caption": "",
-          "location": "Toyama, Japan",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/toyama/09.webp",
-          "caption": "",
-          "location": "Toyama, Japan",
-          "year": "2024"
-        }
-      ]
-    },
-    {
-      "slug": "weekend-walk",
-      "title": "Weekend Walk",
-      "subtitle": "周末走走",
-      "description": "不出远门,不带计划,就是周末走两小时。这种照片往往最像自己。",
-      "cover": "/photos/weekend-walk/02.webp",
-      "category": "人文",
-      "year": "2024",
-      "photos": [
-        {
-          "src": "/photos/weekend-walk/02.webp",
-          "caption": "",
-          "location": "China",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/weekend-walk/03.webp",
-          "caption": "",
-          "location": "China",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/weekend-walk/04.webp",
-          "caption": "",
-          "location": "China",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/weekend-walk/05.webp",
-          "caption": "",
-          "location": "China",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/weekend-walk/06.webp",
-          "caption": "",
-          "location": "China",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/weekend-walk/08.webp",
-          "caption": "",
-          "location": "China",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/weekend-walk/09.webp",
-          "caption": "",
-          "location": "China",
-          "year": "2024"
-        }
-      ]
-    },
-    {
-      "slug": "brighton",
-      "title": "Brighton & Seven Sisters",
-      "subtitle": "布莱顿 · 白崖",
-      "description": "英国南海岸的白崖。风把一切都吹得很硬,但海依然温柔得像个谎言。",
-      "cover": "/photos/brighton/02.webp",
-      "category": "风光",
-      "year": "2024",
-      "photos": [
-        {
-          "src": "/photos/brighton/02.webp",
-          "caption": "",
-          "location": "Brighton, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/brighton/03.webp",
-          "caption": "",
-          "location": "Brighton, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/brighton/04.webp",
-          "caption": "",
-          "location": "Brighton, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/brighton/05.webp",
-          "caption": "",
-          "location": "Brighton, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/brighton/07.webp",
-          "caption": "",
-          "location": "Brighton, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/brighton/08.webp",
-          "caption": "",
-          "location": "Brighton, UK",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/brighton/09.webp",
-          "caption": "",
-          "location": "Brighton, UK",
-          "year": "2024"
+          "location": "Greymouth, New Zealand",
+          "year": "2023"
         }
       ]
     },
@@ -1425,55 +769,463 @@
       ]
     },
     {
-      "slug": "singapore-orchard",
-      "title": "Orchard Road",
-      "subtitle": "新加坡 · 乌节路 · 散步",
-      "description": "饭后从乌节路一直走回家。热带城市夜里反而更舒服——空调风从商场里漏出来,凉得正好。",
-      "cover": "/photos/singapore-orchard/04.webp",
+      "slug": "germany-austria",
+      "title": "Germany & Austria",
+      "subtitle": "周中德国 · 周末奥地利",
+      "description": "德国的秩序与奥地利的松弛,在同一周里反复切换,像一首节奏古怪的曲子。",
+      "cover": "/photos/germany-austria/07.webp",
+      "category": "人文",
+      "year": "2025",
+      "photos": [
+        {
+          "src": "/photos/germany-austria/07.webp",
+          "caption": "",
+          "location": "Germany / Austria",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/germany-austria/05.webp",
+          "caption": "",
+          "location": "Germany / Austria",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/germany-austria/01.webp",
+          "caption": "",
+          "location": "Germany / Austria",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/germany-austria/02.webp",
+          "caption": "",
+          "location": "Germany / Austria",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/germany-austria/03.webp",
+          "caption": "",
+          "location": "Germany / Austria",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/germany-austria/04.webp",
+          "caption": "",
+          "location": "Germany / Austria",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/germany-austria/09.webp",
+          "caption": "",
+          "location": "Germany / Austria",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/germany-austria/10.webp",
+          "caption": "",
+          "location": "Germany / Austria",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/germany-austria/12.webp",
+          "caption": "",
+          "location": "Germany / Austria",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/germany-austria/14.webp",
+          "caption": "",
+          "location": "Germany / Austria",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "slug": "copenhagen",
+      "title": "Copenhagen",
+      "subtitle": "哥本哈根 · 周末",
+      "description": "北欧的克制和讲究,在哥本哈根具象化:自行车比汽车多,运河边的房子色彩干净,人走路都不太着急。",
+      "cover": "/photos/copenhagen/03.webp",
+      "category": "人文",
+      "year": "2023",
+      "photos": [
+        {
+          "src": "/photos/copenhagen/03.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/07.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/06.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/08.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/11.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/04.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/09.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/10.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/12.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/13.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/14.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/15.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/copenhagen/16.webp",
+          "caption": "",
+          "location": "Copenhagen, Denmark",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "slug": "brighton",
+      "title": "Brighton & Seven Sisters",
+      "subtitle": "布莱顿 · 白崖",
+      "description": "英国南海岸的白崖。风把一切都吹得很硬,但海依然温柔得像个谎言。",
+      "cover": "/photos/brighton/02.webp",
+      "category": "风光",
+      "year": "2024",
+      "photos": [
+        {
+          "src": "/photos/brighton/02.webp",
+          "caption": "",
+          "location": "Brighton, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/brighton/03.webp",
+          "caption": "",
+          "location": "Brighton, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/brighton/04.webp",
+          "caption": "",
+          "location": "Brighton, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/brighton/05.webp",
+          "caption": "",
+          "location": "Brighton, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/brighton/07.webp",
+          "caption": "",
+          "location": "Brighton, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/brighton/08.webp",
+          "caption": "",
+          "location": "Brighton, UK",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/brighton/09.webp",
+          "caption": "",
+          "location": "Brighton, UK",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "slug": "sf-walk",
+      "title": "San Francisco · Walk",
+      "subtitle": "行走旧金山",
+      "description": "旧金山是个高低错落的城市,你走着走着就到了海边。坡上回头是城市天际线,坡下是雾。",
+      "cover": "/photos/sf-walk/08.webp",
+      "category": "人文",
+      "year": "2025",
+      "photos": [
+        {
+          "src": "/photos/sf-walk/08.webp",
+          "caption": "",
+          "location": "San Francisco, USA",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/sf-walk/03.webp",
+          "caption": "",
+          "location": "San Francisco, USA",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/sf-walk/05.webp",
+          "caption": "",
+          "location": "San Francisco, USA",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/sf-walk/04.webp",
+          "caption": "",
+          "location": "San Francisco, USA",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/sf-walk/02.webp",
+          "caption": "",
+          "location": "San Francisco, USA",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/sf-walk/07.webp",
+          "caption": "",
+          "location": "San Francisco, USA",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/sf-walk/09.webp",
+          "caption": "",
+          "location": "San Francisco, USA",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/sf-walk/10.webp",
+          "caption": "",
+          "location": "San Francisco, USA",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/sf-walk/11.webp",
+          "caption": "",
+          "location": "San Francisco, USA",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "slug": "sf-sun",
+      "title": "SF · Sunlight",
+      "subtitle": "再到三番 · 阳光正好",
+      "description": "倒时差的早晨,阳光把整座城刷得格外干净。这种光,只有西海岸才有。",
+      "cover": "/photos/sf-sun/02.webp",
       "category": "人文",
       "year": "2024",
       "photos": [
         {
-          "src": "/photos/singapore-orchard/02.webp",
+          "src": "/photos/sf-sun/02.webp",
           "caption": "",
-          "location": "Singapore",
+          "location": "San Francisco, USA",
           "year": "2024"
         },
         {
-          "src": "/photos/singapore-orchard/03.webp",
+          "src": "/photos/sf-sun/03.webp",
           "caption": "",
-          "location": "Singapore",
+          "location": "San Francisco, USA",
           "year": "2024"
         },
         {
-          "src": "/photos/singapore-orchard/04.webp",
+          "src": "/photos/sf-sun/04.webp",
           "caption": "",
-          "location": "Singapore",
+          "location": "San Francisco, USA",
           "year": "2024"
         },
         {
-          "src": "/photos/singapore-orchard/05.webp",
+          "src": "/photos/sf-sun/07.webp",
           "caption": "",
-          "location": "Singapore",
+          "location": "San Francisco, USA",
           "year": "2024"
+        }
+      ]
+    },
+    {
+      "slug": "london-mi",
+      "title": "London Commute",
+      "subtitle": "伦敦上下班 · 随手拍",
+      "description": "工作日的伦敦,每天上下班路过同一段路,但每天的光、人、雨都不一样。手机也能拍到这些。",
+      "cover": "/photos/london-mi/02.webp",
+      "category": "人文",
+      "year": "2023",
+      "photos": [
+        {
+          "src": "/photos/london-mi/02.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
         },
         {
-          "src": "/photos/singapore-orchard/06.webp",
+          "src": "/photos/london-mi/03.webp",
           "caption": "",
-          "location": "Singapore",
-          "year": "2024"
+          "location": "London, UK",
+          "year": "2023"
         },
         {
-          "src": "/photos/singapore-orchard/07.webp",
+          "src": "/photos/london-mi/06.webp",
           "caption": "",
-          "location": "Singapore",
-          "year": "2024"
+          "location": "London, UK",
+          "year": "2023"
         },
         {
-          "src": "/photos/singapore-orchard/08.webp",
+          "src": "/photos/london-mi/05.webp",
           "caption": "",
-          "location": "Singapore",
-          "year": "2024"
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-mi/04.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-mi/07.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-mi/08.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-mi/09.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-mi/10.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "slug": "london-night",
+      "title": "London Night",
+      "subtitle": "夜伦敦 · city walk",
+      "description": "伦敦的夜不暗。河边、桥头、地铁口,黄色的灯把石头都焐暖了。",
+      "cover": "/photos/london-night/03.webp",
+      "category": "人文",
+      "year": "2023",
+      "photos": [
+        {
+          "src": "/photos/london-night/03.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-night/04.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-night/05.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-night/06.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-night/07.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-night/08.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-night/09.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-night/10.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-night/11.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-night/12.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-night/13.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/london-night/14.webp",
+          "caption": "",
+          "location": "London, UK",
+          "year": "2023"
         }
       ]
     },
@@ -1543,201 +1295,78 @@
       ]
     },
     {
-      "slug": "sf-sun",
-      "title": "SF · Sunlight",
-      "subtitle": "再到三番 · 阳光正好",
-      "description": "倒时差的早晨,阳光把整座城刷得格外干净。这种光,只有西海岸才有。",
-      "cover": "/photos/sf-sun/02.webp",
-      "category": "人文",
-      "year": "2024",
-      "photos": [
-        {
-          "src": "/photos/sf-sun/02.webp",
-          "caption": "",
-          "location": "San Francisco, USA",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/sf-sun/03.webp",
-          "caption": "",
-          "location": "San Francisco, USA",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/sf-sun/04.webp",
-          "caption": "",
-          "location": "San Francisco, USA",
-          "year": "2024"
-        },
-        {
-          "src": "/photos/sf-sun/07.webp",
-          "caption": "",
-          "location": "San Francisco, USA",
-          "year": "2024"
-        }
-      ]
-    },
-    {
-      "slug": "hokkaido-1",
-      "title": "Hokkaido",
-      "subtitle": "北海道跨年 · 一周目",
-      "description": "第一次去北海道跨年。雪、温泉、清酒,以及凌晨零点神社门口的那一长串灯笼。",
-      "cover": "/photos/hokkaido-1/01.webp",
-      "category": "风光",
-      "year": "2023",
-      "photos": [
-        {
-          "src": "/photos/hokkaido-1/01.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hokkaido-1/02.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hokkaido-1/03.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hokkaido-1/07.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hokkaido-1/04.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hokkaido-1/05.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hokkaido-1/06.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hokkaido-1/08.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hokkaido-1/09.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hokkaido-1/10.webp",
-          "caption": "",
-          "location": "Hokkaido, Japan",
-          "year": "2023"
-        }
-      ]
-    },
-    {
-      "slug": "hemu",
-      "title": "Hemu",
-      "subtitle": "冬日 · 禾木",
-      "description": "新疆禾木的冬天像被按了静音键。木屋上结着厚厚的雪,炊烟直直地往上飘。",
-      "cover": "/photos/hemu/01.webp",
-      "category": "风光",
-      "year": "2023",
-      "photos": [
-        {
-          "src": "/photos/hemu/01.webp",
-          "caption": "",
-          "location": "Hemu, Xinjiang",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hemu/08.webp",
-          "caption": "",
-          "location": "Hemu, Xinjiang",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hemu/04.webp",
-          "caption": "",
-          "location": "Hemu, Xinjiang",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hemu/05.webp",
-          "caption": "",
-          "location": "Hemu, Xinjiang",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hemu/02.webp",
-          "caption": "",
-          "location": "Hemu, Xinjiang",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/hemu/06.webp",
-          "caption": "",
-          "location": "Hemu, Xinjiang",
-          "year": "2023"
-        }
-      ]
-    },
-    {
-      "slug": "urumqi",
-      "title": "Urumqi · Snowy Night",
-      "subtitle": "乌鲁木齐 · 雪夜",
-      "description": "雪夜的乌市,街灯把雪染成琥珀色。一个人走路,听得见自己脚下的咔嚓咔嚓。",
-      "cover": "/photos/urumqi/01.webp",
+      "slug": "saudi",
+      "title": "Jeddah",
+      "subtitle": "沙特 · 吉达",
+      "description": "红海边的旧城,珊瑚石老房子层层叠叠。夜里的咖啡馆开到很晚,大家围着小桌喝薄荷茶。",
+      "cover": "/photos/saudi/09.webp",
       "category": "人文",
       "year": "2023",
       "photos": [
         {
-          "src": "/photos/urumqi/01.webp",
+          "src": "/photos/saudi/09.webp",
           "caption": "",
-          "location": "Urumqi, Xinjiang",
+          "location": "Jeddah, Saudi Arabia",
           "year": "2023"
         },
         {
-          "src": "/photos/urumqi/02.webp",
+          "src": "/photos/saudi/01.webp",
           "caption": "",
-          "location": "Urumqi, Xinjiang",
+          "location": "Jeddah, Saudi Arabia",
           "year": "2023"
         },
         {
-          "src": "/photos/urumqi/03.webp",
+          "src": "/photos/saudi/02.webp",
           "caption": "",
-          "location": "Urumqi, Xinjiang",
+          "location": "Jeddah, Saudi Arabia",
           "year": "2023"
         },
         {
-          "src": "/photos/urumqi/05.webp",
+          "src": "/photos/saudi/07.webp",
           "caption": "",
-          "location": "Urumqi, Xinjiang",
+          "location": "Jeddah, Saudi Arabia",
           "year": "2023"
         },
         {
-          "src": "/photos/urumqi/04.webp",
+          "src": "/photos/saudi/03.webp",
           "caption": "",
-          "location": "Urumqi, Xinjiang",
+          "location": "Jeddah, Saudi Arabia",
           "year": "2023"
         },
         {
-          "src": "/photos/urumqi/06.webp",
+          "src": "/photos/saudi/04.webp",
           "caption": "",
-          "location": "Urumqi, Xinjiang",
+          "location": "Jeddah, Saudi Arabia",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/saudi/05.webp",
+          "caption": "",
+          "location": "Jeddah, Saudi Arabia",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/saudi/06.webp",
+          "caption": "",
+          "location": "Jeddah, Saudi Arabia",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/saudi/08.webp",
+          "caption": "",
+          "location": "Jeddah, Saudi Arabia",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/saudi/10.webp",
+          "caption": "",
+          "location": "Jeddah, Saudi Arabia",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/saudi/11.webp",
+          "caption": "",
+          "location": "Jeddah, Saudi Arabia",
           "year": "2023"
         }
       ]
@@ -1909,499 +1538,161 @@
       ]
     },
     {
-      "slug": "saudi",
-      "title": "Jeddah",
-      "subtitle": "沙特 · 吉达",
-      "description": "红海边的旧城,珊瑚石老房子层层叠叠。夜里的咖啡馆开到很晚,大家围着小桌喝薄荷茶。",
-      "cover": "/photos/saudi/09.webp",
+      "slug": "singapore-orchard",
+      "title": "Orchard Road",
+      "subtitle": "新加坡 · 乌节路 · 散步",
+      "description": "饭后从乌节路一直走回家。热带城市夜里反而更舒服——空调风从商场里漏出来,凉得正好。",
+      "cover": "/photos/singapore-orchard/04.webp",
       "category": "人文",
-      "year": "2023",
+      "year": "2024",
       "photos": [
         {
-          "src": "/photos/saudi/09.webp",
+          "src": "/photos/singapore-orchard/02.webp",
           "caption": "",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
+          "location": "Singapore",
+          "year": "2024"
         },
         {
-          "src": "/photos/saudi/01.webp",
+          "src": "/photos/singapore-orchard/03.webp",
           "caption": "",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
+          "location": "Singapore",
+          "year": "2024"
         },
         {
-          "src": "/photos/saudi/02.webp",
+          "src": "/photos/singapore-orchard/04.webp",
           "caption": "",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
+          "location": "Singapore",
+          "year": "2024"
         },
         {
-          "src": "/photos/saudi/07.webp",
+          "src": "/photos/singapore-orchard/05.webp",
           "caption": "",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
+          "location": "Singapore",
+          "year": "2024"
         },
         {
-          "src": "/photos/saudi/03.webp",
+          "src": "/photos/singapore-orchard/06.webp",
           "caption": "",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
+          "location": "Singapore",
+          "year": "2024"
         },
         {
-          "src": "/photos/saudi/04.webp",
+          "src": "/photos/singapore-orchard/07.webp",
           "caption": "",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
+          "location": "Singapore",
+          "year": "2024"
         },
         {
-          "src": "/photos/saudi/05.webp",
+          "src": "/photos/singapore-orchard/08.webp",
           "caption": "",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/saudi/06.webp",
-          "caption": "",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/saudi/08.webp",
-          "caption": "",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/saudi/10.webp",
-          "caption": "",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/saudi/11.webp",
-          "caption": "",
-          "location": "Jeddah, Saudi Arabia",
-          "year": "2023"
+          "location": "Singapore",
+          "year": "2024"
         }
       ]
     },
     {
-      "slug": "nz-southisland",
-      "title": "NZ South Island",
-      "subtitle": "新西兰 · 南岛自驾 · 皇后镇",
-      "description": "皇后镇周边的山湖。自驾在南岛任何一段路上停下,基本都能拍出明信片。",
-      "cover": "/photos/nz-southisland/01.webp",
-      "category": "风光",
-      "year": "2023",
-      "photos": [
-        {
-          "src": "/photos/nz-southisland/01.webp",
-          "caption": "",
-          "location": "Queenstown, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/nz-southisland/07.webp",
-          "caption": "",
-          "location": "Queenstown, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/nz-southisland/02.webp",
-          "caption": "",
-          "location": "Queenstown, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/nz-southisland/05.webp",
-          "caption": "",
-          "location": "Queenstown, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/nz-southisland/03.webp",
-          "caption": "",
-          "location": "Queenstown, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/nz-southisland/04.webp",
-          "caption": "",
-          "location": "Queenstown, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/nz-southisland/06.webp",
-          "caption": "",
-          "location": "Queenstown, New Zealand",
-          "year": "2023"
-        }
-      ]
-    },
-    {
-      "slug": "greymouth",
-      "title": "Greymouth · Sunset",
-      "subtitle": "格雷茅斯 · 夕阳",
-      "description": "新西兰西海岸的小镇,运气好的话能看到一场把整片塔斯曼海烧起来的夕阳。",
-      "cover": "/photos/greymouth/02.webp",
-      "category": "风光",
-      "year": "2023",
-      "photos": [
-        {
-          "src": "/photos/greymouth/02.webp",
-          "caption": "",
-          "location": "Greymouth, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/greymouth/07.webp",
-          "caption": "",
-          "location": "Greymouth, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/greymouth/04.webp",
-          "caption": "",
-          "location": "Greymouth, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/greymouth/03.webp",
-          "caption": "",
-          "location": "Greymouth, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/greymouth/08.webp",
-          "caption": "",
-          "location": "Greymouth, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/greymouth/09.webp",
-          "caption": "",
-          "location": "Greymouth, New Zealand",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/greymouth/10.webp",
-          "caption": "",
-          "location": "Greymouth, New Zealand",
-          "year": "2023"
-        }
-      ]
-    },
-    {
-      "slug": "shanghai-1933",
-      "title": "Shanghai 1933",
-      "subtitle": "上海 · 1933 老场坊",
-      "description": "老屠宰场改造成的混凝土迷宫。光从空隙里斜下来,人走在里面像走在某种结构主义的画里。",
-      "cover": "/photos/shanghai-1933/02.webp",
+      "slug": "penang",
+      "title": "Penang Walk",
+      "subtitle": "马来 · 槟城漫步",
+      "description": "槟城是被时间慢慢熬出来的城。骑楼、华人庙、印度小贩、英殖民老房子混在一起,海风把所有招牌都吹得有点旧。",
+      "cover": "/photos/penang/06.webp",
       "category": "人文",
-      "year": "2023",
+      "year": "2024",
       "photos": [
         {
-          "src": "/photos/shanghai-1933/02.webp",
+          "src": "/photos/penang/06.webp",
           "caption": "",
-          "location": "Shanghai, China",
-          "year": "2023"
+          "location": "Penang, Malaysia",
+          "year": "2024"
         },
         {
-          "src": "/photos/shanghai-1933/03.webp",
+          "src": "/photos/penang/13.webp",
           "caption": "",
-          "location": "Shanghai, China",
-          "year": "2023"
+          "location": "Penang, Malaysia",
+          "year": "2024"
         },
         {
-          "src": "/photos/shanghai-1933/04.webp",
+          "src": "/photos/penang/03.webp",
           "caption": "",
-          "location": "Shanghai, China",
-          "year": "2023"
+          "location": "Penang, Malaysia",
+          "year": "2024"
         },
         {
-          "src": "/photos/shanghai-1933/06.webp",
+          "src": "/photos/penang/02.webp",
           "caption": "",
-          "location": "Shanghai, China",
-          "year": "2023"
+          "location": "Penang, Malaysia",
+          "year": "2024"
         },
         {
-          "src": "/photos/shanghai-1933/05.webp",
+          "src": "/photos/penang/07.webp",
           "caption": "",
-          "location": "Shanghai, China",
-          "year": "2023"
+          "location": "Penang, Malaysia",
+          "year": "2024"
         },
         {
-          "src": "/photos/shanghai-1933/07.webp",
+          "src": "/photos/penang/08.webp",
           "caption": "",
-          "location": "Shanghai, China",
-          "year": "2023"
+          "location": "Penang, Malaysia",
+          "year": "2024"
         },
         {
-          "src": "/photos/shanghai-1933/08.webp",
+          "src": "/photos/penang/11.webp",
           "caption": "",
-          "location": "Shanghai, China",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/shanghai-1933/09.webp",
-          "caption": "",
-          "location": "Shanghai, China",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/shanghai-1933/10.webp",
-          "caption": "",
-          "location": "Shanghai, China",
-          "year": "2023"
+          "location": "Penang, Malaysia",
+          "year": "2024"
         }
       ]
     },
     {
-      "slug": "london-mi",
-      "title": "London Commute",
-      "subtitle": "伦敦上下班 · 随手拍",
-      "description": "工作日的伦敦,每天上下班路过同一段路,但每天的光、人、雨都不一样。手机也能拍到这些。",
-      "cover": "/photos/london-mi/02.webp",
+      "slug": "weekend-walk",
+      "title": "Weekend Walk",
+      "subtitle": "周末走走",
+      "description": "不出远门,不带计划,就是周末走两小时。这种照片往往最像自己。",
+      "cover": "/photos/weekend-walk/02.webp",
       "category": "人文",
-      "year": "2023",
+      "year": "2024",
       "photos": [
         {
-          "src": "/photos/london-mi/02.webp",
+          "src": "/photos/weekend-walk/02.webp",
           "caption": "",
-          "location": "London, UK",
-          "year": "2023"
+          "location": "China",
+          "year": "2024"
         },
         {
-          "src": "/photos/london-mi/03.webp",
+          "src": "/photos/weekend-walk/03.webp",
           "caption": "",
-          "location": "London, UK",
-          "year": "2023"
+          "location": "China",
+          "year": "2024"
         },
         {
-          "src": "/photos/london-mi/06.webp",
+          "src": "/photos/weekend-walk/04.webp",
           "caption": "",
-          "location": "London, UK",
-          "year": "2023"
+          "location": "China",
+          "year": "2024"
         },
         {
-          "src": "/photos/london-mi/05.webp",
+          "src": "/photos/weekend-walk/05.webp",
           "caption": "",
-          "location": "London, UK",
-          "year": "2023"
+          "location": "China",
+          "year": "2024"
         },
         {
-          "src": "/photos/london-mi/04.webp",
+          "src": "/photos/weekend-walk/06.webp",
           "caption": "",
-          "location": "London, UK",
-          "year": "2023"
+          "location": "China",
+          "year": "2024"
         },
         {
-          "src": "/photos/london-mi/07.webp",
+          "src": "/photos/weekend-walk/08.webp",
           "caption": "",
-          "location": "London, UK",
-          "year": "2023"
+          "location": "China",
+          "year": "2024"
         },
         {
-          "src": "/photos/london-mi/08.webp",
+          "src": "/photos/weekend-walk/09.webp",
           "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/london-mi/09.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/london-mi/10.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        }
-      ]
-    },
-    {
-      "slug": "copenhagen",
-      "title": "Copenhagen",
-      "subtitle": "哥本哈根 · 周末",
-      "description": "北欧的克制和讲究,在哥本哈根具象化:自行车比汽车多,运河边的房子色彩干净,人走路都不太着急。",
-      "cover": "/photos/copenhagen/03.webp",
-      "category": "人文",
-      "year": "2023",
-      "photos": [
-        {
-          "src": "/photos/copenhagen/03.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/07.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/06.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/08.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/11.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/04.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/09.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/10.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/12.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/13.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/14.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/15.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/copenhagen/16.webp",
-          "caption": "",
-          "location": "Copenhagen, Denmark",
-          "year": "2023"
-        }
-      ]
-    },
-    {
-      "slug": "paris-1",
-      "title": "Paris · First Time",
-      "subtitle": "特种兵 · 巴黎扫街",
-      "description": "第一次去巴黎,赶得像打仗——但也正因为赶,反而拍下了一些最直接的反应。",
-      "cover": "/photos/paris-1/15.webp",
-      "category": "人文",
-      "year": "2023",
-      "photos": [
-        {
-          "src": "/photos/paris-1/15.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/04.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/03.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/10.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/06.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/05.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/08.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/09.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/11.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/12.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/13.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/14.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/16.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/paris-1/17.webp",
-          "caption": "",
-          "location": "Paris, France",
-          "year": "2023"
+          "location": "China",
+          "year": "2024"
         }
       ]
     },
@@ -2512,167 +1803,741 @@
       ]
     },
     {
-      "slug": "london-night",
-      "title": "London Night",
-      "subtitle": "夜伦敦 · city walk",
-      "description": "伦敦的夜不暗。河边、桥头、地铁口,黄色的灯把石头都焐暖了。",
-      "cover": "/photos/london-night/03.webp",
+      "slug": "hokkaido-2",
+      "title": "Hokkaido · Round 2",
+      "subtitle": "北海道跨年 · 二周目",
+      "description": "第二次跨年来北海道。雪还是那种雪,但人不一样了。小樽的天狗山、祝津展望台,适合一个人吹很久的风。",
+      "cover": "/photos/hokkaido-2/01.webp",
+      "category": "风光",
+      "year": "2025",
+      "photos": [
+        {
+          "src": "/photos/hokkaido-2/01.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/02.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/03.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/07.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/04.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/05.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/06.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/09.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/10.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/11.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/13.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/14.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/16.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hokkaido-2/17.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "slug": "hokkaido-1",
+      "title": "Hokkaido",
+      "subtitle": "北海道跨年 · 一周目",
+      "description": "第一次去北海道跨年。雪、温泉、清酒,以及凌晨零点神社门口的那一长串灯笼。",
+      "cover": "/photos/hokkaido-1/01.webp",
+      "category": "风光",
+      "year": "2023",
+      "photos": [
+        {
+          "src": "/photos/hokkaido-1/01.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hokkaido-1/02.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hokkaido-1/03.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hokkaido-1/07.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hokkaido-1/04.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hokkaido-1/05.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hokkaido-1/06.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hokkaido-1/08.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hokkaido-1/09.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hokkaido-1/10.webp",
+          "caption": "",
+          "location": "Hokkaido, Japan",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "slug": "tokyo",
+      "title": "Tokyo",
+      "subtitle": "东京通勤 · 随手拍",
+      "description": "东京最迷人的不是樱花,是早高峰里那种密度——人在里面像被冲走的纸船,但每张脸都依旧很安静。",
+      "cover": "/photos/tokyo/08.webp",
+      "category": "人文",
+      "year": "2025",
+      "photos": [
+        {
+          "src": "/photos/tokyo/08.webp",
+          "caption": "",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/tokyo/04.webp",
+          "caption": "",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/tokyo/12.webp",
+          "caption": "",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/tokyo/03.webp",
+          "caption": "",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/tokyo/06.webp",
+          "caption": "",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/tokyo/09.webp",
+          "caption": "",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/tokyo/10.webp",
+          "caption": "",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/tokyo/13.webp",
+          "caption": "",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/tokyo/14.webp",
+          "caption": "",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/tokyo/15.webp",
+          "caption": "",
+          "location": "Tokyo, Japan",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "slug": "fukuoka",
+      "title": "Fukuoka & Kagoshima",
+      "subtitle": "福冈 · 鹿儿岛",
+      "description": "九州的节奏比东京慢一截。福冈的小巷、鹿儿岛的火山,两座城像同一个人的两面——一面收敛,一面热烈。",
+      "cover": "/photos/fukuoka/01.webp",
+      "category": "人文",
+      "year": "2025",
+      "photos": [
+        {
+          "src": "/photos/fukuoka/01.webp",
+          "caption": "",
+          "location": "Kyushu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/fukuoka/02.webp",
+          "caption": "",
+          "location": "Kyushu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/fukuoka/03.webp",
+          "caption": "",
+          "location": "Kyushu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/fukuoka/04.webp",
+          "caption": "",
+          "location": "Kyushu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/fukuoka/05.webp",
+          "caption": "",
+          "location": "Kyushu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/fukuoka/06.webp",
+          "caption": "",
+          "location": "Kyushu, Japan",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "slug": "kanazawa",
+      "title": "Kanazawa · Rainy Night",
+      "subtitle": "金泽 · 雨夜",
+      "description": "金泽下雨那晚,我没有撑伞。雨把街灯打散在地上,每一步都像踩在另一座更亮的城里。",
+      "cover": "/photos/kanazawa/02.webp",
+      "category": "人文",
+      "year": "2024",
+      "photos": [
+        {
+          "src": "/photos/kanazawa/02.webp",
+          "caption": "",
+          "location": "Kanazawa, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/kanazawa/03.webp",
+          "caption": "",
+          "location": "Kanazawa, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/kanazawa/04.webp",
+          "caption": "",
+          "location": "Kanazawa, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/kanazawa/07.webp",
+          "caption": "",
+          "location": "Kanazawa, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/kanazawa/05.webp",
+          "caption": "",
+          "location": "Kanazawa, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/kanazawa/06.webp",
+          "caption": "",
+          "location": "Kanazawa, Japan",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "slug": "toyama",
+      "title": "Toyama / Amaharashi",
+      "subtitle": "富山 · 高冈 · 雨晴",
+      "description": "雨晴海岸看立山——晴天时山是悬浮的,海是镜子。日本最浪漫的地理巧合之一。",
+      "cover": "/photos/toyama/01.webp",
+      "category": "风光",
+      "year": "2024",
+      "photos": [
+        {
+          "src": "/photos/toyama/01.webp",
+          "caption": "",
+          "location": "Toyama, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/toyama/03.webp",
+          "caption": "",
+          "location": "Toyama, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/toyama/02.webp",
+          "caption": "",
+          "location": "Toyama, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/toyama/04.webp",
+          "caption": "",
+          "location": "Toyama, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/toyama/05.webp",
+          "caption": "",
+          "location": "Toyama, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/toyama/06.webp",
+          "caption": "",
+          "location": "Toyama, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/toyama/07.webp",
+          "caption": "",
+          "location": "Toyama, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/toyama/08.webp",
+          "caption": "",
+          "location": "Toyama, Japan",
+          "year": "2024"
+        },
+        {
+          "src": "/photos/toyama/09.webp",
+          "caption": "",
+          "location": "Toyama, Japan",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "slug": "hakone-izu",
+      "title": "Hakone & Izu",
+      "subtitle": "山里住两天 · 箱根 / 伊豆",
+      "description": "日本人懂得把山过出温柔的味道。温泉、雾、木头、慢吞吞的电车——你在里面待两天,就会忘记自己平时在赶什么。",
+      "cover": "/photos/hakone-izu/01.webp",
+      "category": "风光",
+      "year": "2025",
+      "photos": [
+        {
+          "src": "/photos/hakone-izu/01.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/02.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/03.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/04.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/05.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/06.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/07.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/08.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/09.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/10.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/11.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/12.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/13.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/14.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/hakone-izu/15.webp",
+          "caption": "",
+          "location": "Hakone & Izu, Japan",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "slug": "osaka",
+      "title": "Osaka",
+      "subtitle": "大阪 · 出差几日",
+      "description": "大阪的烟火气在街边——烤串的烟、便利店的灯、地铁出口的笑声。比东京更松,比京都更躁。",
+      "cover": "/photos/osaka/01.webp",
+      "category": "人文",
+      "year": "2025",
+      "photos": [
+        {
+          "src": "/photos/osaka/01.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/osaka/02.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/osaka/03.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/osaka/07.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/osaka/04.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/osaka/05.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/osaka/06.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/osaka/08.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/osaka/09.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/osaka/10.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/osaka/11.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        },
+        {
+          "src": "/photos/osaka/13.webp",
+          "caption": "",
+          "location": "Osaka, Japan",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "slug": "hemu",
+      "title": "Hemu",
+      "subtitle": "冬日 · 禾木",
+      "description": "新疆禾木的冬天像被按了静音键。木屋上结着厚厚的雪,炊烟直直地往上飘。",
+      "cover": "/photos/hemu/01.webp",
+      "category": "风光",
+      "year": "2023",
+      "photos": [
+        {
+          "src": "/photos/hemu/01.webp",
+          "caption": "",
+          "location": "Hemu, Xinjiang",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hemu/08.webp",
+          "caption": "",
+          "location": "Hemu, Xinjiang",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hemu/04.webp",
+          "caption": "",
+          "location": "Hemu, Xinjiang",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hemu/05.webp",
+          "caption": "",
+          "location": "Hemu, Xinjiang",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hemu/02.webp",
+          "caption": "",
+          "location": "Hemu, Xinjiang",
+          "year": "2023"
+        },
+        {
+          "src": "/photos/hemu/06.webp",
+          "caption": "",
+          "location": "Hemu, Xinjiang",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "slug": "urumqi",
+      "title": "Urumqi · Snowy Night",
+      "subtitle": "乌鲁木齐 · 雪夜",
+      "description": "雪夜的乌市,街灯把雪染成琥珀色。一个人走路,听得见自己脚下的咔嚓咔嚓。",
+      "cover": "/photos/urumqi/01.webp",
       "category": "人文",
       "year": "2023",
       "photos": [
         {
-          "src": "/photos/london-night/03.webp",
+          "src": "/photos/urumqi/01.webp",
           "caption": "",
-          "location": "London, UK",
+          "location": "Urumqi, Xinjiang",
           "year": "2023"
         },
         {
-          "src": "/photos/london-night/04.webp",
+          "src": "/photos/urumqi/02.webp",
           "caption": "",
-          "location": "London, UK",
+          "location": "Urumqi, Xinjiang",
           "year": "2023"
         },
         {
-          "src": "/photos/london-night/05.webp",
+          "src": "/photos/urumqi/03.webp",
           "caption": "",
-          "location": "London, UK",
+          "location": "Urumqi, Xinjiang",
           "year": "2023"
         },
         {
-          "src": "/photos/london-night/06.webp",
+          "src": "/photos/urumqi/05.webp",
           "caption": "",
-          "location": "London, UK",
+          "location": "Urumqi, Xinjiang",
           "year": "2023"
         },
         {
-          "src": "/photos/london-night/07.webp",
+          "src": "/photos/urumqi/04.webp",
           "caption": "",
-          "location": "London, UK",
+          "location": "Urumqi, Xinjiang",
           "year": "2023"
         },
         {
-          "src": "/photos/london-night/08.webp",
+          "src": "/photos/urumqi/06.webp",
           "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/london-night/09.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/london-night/10.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/london-night/11.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/london-night/12.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/london-night/13.webp",
-          "caption": "",
-          "location": "London, UK",
-          "year": "2023"
-        },
-        {
-          "src": "/photos/london-night/14.webp",
-          "caption": "",
-          "location": "London, UK",
+          "location": "Urumqi, Xinjiang",
           "year": "2023"
         }
       ]
     },
     {
-      "slug": "singapore",
-      "title": "Singapore",
-      "subtitle": "新加坡",
-      "description": "这个城市像是用尺子画出来的,但真正住进去之后会发现,缝隙里全是生活。",
-      "cover": "/photos/singapore/01.webp",
+      "slug": "shanghai-1933",
+      "title": "Shanghai 1933",
+      "subtitle": "上海 · 1933 老场坊",
+      "description": "老屠宰场改造成的混凝土迷宫。光从空隙里斜下来,人走在里面像走在某种结构主义的画里。",
+      "cover": "/photos/shanghai-1933/02.webp",
       "category": "人文",
-      "year": "2022",
+      "year": "2023",
       "photos": [
         {
-          "src": "/photos/singapore/01.webp",
+          "src": "/photos/shanghai-1933/02.webp",
           "caption": "",
-          "location": "Singapore",
-          "year": "2022"
+          "location": "Shanghai, China",
+          "year": "2023"
         },
         {
-          "src": "/photos/singapore/02.webp",
+          "src": "/photos/shanghai-1933/03.webp",
           "caption": "",
-          "location": "Singapore",
-          "year": "2022"
+          "location": "Shanghai, China",
+          "year": "2023"
         },
         {
-          "src": "/photos/singapore/03.webp",
+          "src": "/photos/shanghai-1933/04.webp",
           "caption": "",
-          "location": "Singapore",
-          "year": "2022"
+          "location": "Shanghai, China",
+          "year": "2023"
         },
         {
-          "src": "/photos/singapore/04.webp",
+          "src": "/photos/shanghai-1933/06.webp",
           "caption": "",
-          "location": "Singapore",
-          "year": "2022"
+          "location": "Shanghai, China",
+          "year": "2023"
         },
         {
-          "src": "/photos/singapore/05.webp",
+          "src": "/photos/shanghai-1933/05.webp",
           "caption": "",
-          "location": "Singapore",
-          "year": "2022"
+          "location": "Shanghai, China",
+          "year": "2023"
         },
         {
-          "src": "/photos/singapore/06.webp",
+          "src": "/photos/shanghai-1933/07.webp",
           "caption": "",
-          "location": "Singapore",
-          "year": "2022"
-        }
-      ]
-    },
-    {
-      "slug": "dubai",
-      "title": "Dubai",
-      "subtitle": "迪拜",
-      "description": "沙漠中长出来的玻璃森林。从塔顶往下看,那种‘人能造出来’的震撼,会持续好几分钟。",
-      "cover": "/photos/dubai/02.webp",
-      "category": "风光",
-      "year": "2022",
-      "photos": [
-        {
-          "src": "/photos/dubai/01.webp",
-          "caption": "",
-          "location": "Dubai, UAE",
-          "year": "2022"
+          "location": "Shanghai, China",
+          "year": "2023"
         },
         {
-          "src": "/photos/dubai/02.webp",
+          "src": "/photos/shanghai-1933/08.webp",
           "caption": "",
-          "location": "Dubai, UAE",
-          "year": "2022"
+          "location": "Shanghai, China",
+          "year": "2023"
         },
         {
-          "src": "/photos/dubai/04.webp",
+          "src": "/photos/shanghai-1933/09.webp",
           "caption": "",
-          "location": "Dubai, UAE",
-          "year": "2022"
+          "location": "Shanghai, China",
+          "year": "2023"
         },
         {
-          "src": "/photos/dubai/05.webp",
+          "src": "/photos/shanghai-1933/10.webp",
           "caption": "",
-          "location": "Dubai, UAE",
-          "year": "2022"
+          "location": "Shanghai, China",
+          "year": "2023"
         }
       ]
     },
